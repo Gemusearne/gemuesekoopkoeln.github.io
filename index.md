@@ -1,7 +1,7 @@
 ---
-layout: landing_page
+layout: default
 title: Startseite
-permalink: /gemuese/
+permalink: /index.html
 ---
 
 # Herzlich willkommen bei der Gemüsekoop Köln!
