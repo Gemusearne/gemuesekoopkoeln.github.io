@@ -10,7 +10,8 @@ permalink: /index.html
 <div class="wp-block-genesis-blocks-gb-container gb-block-container"><div class="gb-container-inside"><div class="gb-container-content" style="max-width:1600px">
 <p></p>
 </div></div></div>
-<figure class="wp-block-video"><video autoplay="" controls="" loop="" muted="" src="/assets/files/koop/start_video.mp4"></video></figure>
+<figure class="wp-block-video"><video autoplay="" controls="" loop="" 
+muted="" src="/assets/videos/start_video.mp4"></video></figure>
 <p></p>
 </div></div></div>
 
