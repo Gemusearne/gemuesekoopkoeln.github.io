@@ -1,0 +1,67 @@
+/* Footer rules */
+footer > div > div > div.footer-col > a {
+  color: #828282;
+  text-decoration: none;
+}
+
+
+/* Logo */
+.site-logo { padding-left: 9em;}
+.site-logo a { text-decoration: none; }
+
+.site-logo img {
+  width:60%;
+}
+
+div.title-tagline-wrap {
+  margin-top:10ex;
+  width:36%;
+  float: left;
+}
+
+.site-logo p.small {
+	display: block;
+  margin: 0;
+  padding: 0;
+  font-size:14px;
+  color: #8bbf56;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.site-logo h1, .site-logo p {
+	font-size: 24px;
+  color: #8bbf56;
+  line-height: normal;
+  font-weight:400;
+  font-family: "Times New Roman", Times, serif;
+	margin: 0;
+  font-size: 24px;
+}
+
+/* Navigation rules */
+div.nav-wrapper {
+  margin: auto;
+  width: 80.2%;
+}
+
+.site-nav { float:none; }
+
+/* Body rules */
+body { background-color: #ffffff; }
+
+body h2 { padding-top: 3ex; }
+
+body h3 { padding-top: 2ex; }
+
+body hr {
+  margin-top: 2ex;
+  margin-bottom: 2ex;
+  color: #EEE;
+}
+
+/* Continous text (used in personal site) */
+div.continuous-text {
+  float: left;
+  width: 65%;
+  padding-right:25px;
+}

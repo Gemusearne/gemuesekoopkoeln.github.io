@@ -3,7 +3,7 @@ layout: default
 title: Konzept
 permalink: /konzept_solawi
 ---
-Was solidarische Landwirtschaft für uns bedeutet – unser Konzept
+# Was solidarische Landwirtschaft für uns bedeutet – unser Konzept
 
 Auf dieser Seite möchten wir Dir erklären, was wir vorhaben und warum uns 
 Solidarische Landwirtschaft wichtig ist! Viele Fragen findest Du 

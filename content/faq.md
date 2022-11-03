@@ -23,6 +23,7 @@ permalink: /faq
       Wie könnte ein Anteil aussehen? Welches Gemüse werdet ihr anbauen?
     </summary>
     <p>
+      <img alt="Beispiel für einen Anteil" src="/assets/images/beispielanteile.png"/>
       In dieser Grafik haben wir euch beispielhaft aufgeführt, welche Kulturen und -Mengen ein großer wöchentlicher Gemüseanteil zu verschiedenen Zeiten des Jahres beinhalten kann.
 
       Diese Zahlen stammen aus der Statistik der Freiburger GartenCoop und nicht aus unserem eigenen Anbau! Sie können euch aber eine gute Idee davon geben, was wir eigentlich meinen, wenn wir in Mitteleuropa von “regionalem, saisonalem” Gemüse sprechen! In Kürze wird diese Tabelle durch eine erste Übersicht unserer eigenen Ernten ersetzt.

@@ -10,7 +10,7 @@ title: Hallo
 <p></p>
 </div></div></div>
 <figure class="wp-block-video"><video autoplay="" controls="" loop="" 
-muted="" src="/assets/videos/start_video.mp4"></video></figure>
+muted="" src="/assets/videos/start_video.mp4" width="100%"></video></figure>
 <p></p>
 </div></div></div>
 
