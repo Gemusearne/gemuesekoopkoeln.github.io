@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Startseite
-permalink: /index.html
+title: Hallo
 ---
 
 # Herzlich willkommen bei der Gemüsekoop Köln!
