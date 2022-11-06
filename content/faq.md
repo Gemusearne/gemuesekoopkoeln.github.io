@@ -25,10 +25,10 @@ permalink: /faq
       In dieser Tabelle haben wir euch beispielhaft aufgeführt, welche Kulturen und -Mengen ein großer wöchentlicher Gemüseanteil zu verschiedenen Zeiten des Jahres beinhalten kann.
     <table>
         <tr>
-            <td>April</td>
-            <td>Juli</td>
-            <td>Oktober</td>
-            <td>Januar</td>
+            <td><b>April</b></td>
+            <td><b>Juli</b></td>
+            <td><b>Oktober</b></td>
+            <td><b>Januar</b></td>
         </tr>
         <tr>
             <td>Möhren 8 kg</td>
