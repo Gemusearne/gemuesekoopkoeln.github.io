@@ -136,7 +136,7 @@ ggf. am reihum wechselnden Depotdienst teilnehmen, um den Raum zu pflegen und sa
     </summary>
     <p>
       Vorerst nicht. Unser Gemüse wird zwar nach biologischen Standards angebaut, jedoch hat es kein offizielles Biosiegel. Die Zertifizierungsverfahren sind aufwändig, teuer, und für eine Solawi in der Regel nicht notwendig, da die Mitglieder in den Hof eingebunden sind. Unser Anbauplan und unsere Methoden sind transparent und offen, das bedeutet: ihr wisst, wo euer Gemüse herkommt und wie es angebaut wurde. Wir haben aber die Möglichkeit, gemeinsam eine Bio-Zertifizierung anzustreben, wenn uns diese wichtig ist.
-      Genaueres zu unserer Arbeitsweise findet ihr hier: Unsere <a href="/files/philosphie.pdf">Anbauphilosophie (PDF-Dokument, 177 KB)</a>
+      Genaueres zu unserer Arbeitsweise findet ihr hier: Unsere <a href="/assets/files/philosphie.pdf">Anbauphilosophie (PDF-Dokument, 177 KB)</a>
     </p>
   </details>
   <details>
@@ -144,7 +144,7 @@ ggf. am reihum wechselnden Depotdienst teilnehmen, um den Raum zu pflegen und sa
       Wo finde ich eure Vereinssatzung?
     </summary>
     <p>
-      Der Gemüsekoop e.V. wurde 2015 gegründet. Hier findet Ihr unsere Vereinssatzung: <a href="/files/satzung.pdf">Satzung Gemüsekoop e.V.</a>
+      Der Gemüsekoop e.V. wurde 2015 gegründet. Hier findet Ihr unsere Vereinssatzung: <a href="/assets/files/satzung.pdf">Satzung Gemüsekoop e.V.</a>
     </p>
   </details>
   <details>

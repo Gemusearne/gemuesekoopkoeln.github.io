@@ -11,9 +11,9 @@ Auch für die Saison 2022/2023 verzichten wir coronabedingt auf unsere große Ja
 Aktuell ist diese gut gefüllt und es kann sein, dass, wenn du dich jetzt eintragen lässt, es für dich erst im Laufe der nächsten Saison einen freien Anteil gibt.  
 Kennenlern-Termine können derzeit ebenfalls nur bedingt stattfinden. Wir versuchen aber dennoch, Ackertage, eine Hofführung oder Info-Veranstaltungen anzubieten! Sprich uns gerne an oder schau in den Kalender auf der Startseite!
 
-Wenn Du dich auf die Warteliste eintragen möchtest, einfach das [Formular](/files/warteliste.pdf) ausdrucken und per Post (Widdersdorfer Landstraße 103, 50859 Köln) oder als Scan an support@gemuesekoop.de schicken.
+Wenn Du dich auf die Warteliste eintragen möchtest, einfach das [Formular](/assets/files/Wartelistenantrag2023.pdf) ausdrucken und per Post (Widdersdorfer Landstraße 103, 50859 Köln) oder als Scan an support@gemuesekoop.de schicken.
 
-Unsere [Vereinssatzung](/files/satzung.pdf).
+Unsere [Vereinssatzung](/assets/files/satzung.pdf).
 
 ![Bieterrunde](/assets/images/bieterrunde.jpg)
 
@@ -22,4 +22,4 @@ Als Fördermitglied kannst Du den Aufbau der Gemüsekoop finanziell und ehrenamt
 
 Um Fördermitglied zu werden, fülle einfach den folgenden Antrag aus und schicke ihn uns per Mail oder per Post zu (Gemüsekoop e.V., Widdersdorfer Landstr. 103, 50859 Köln). Die Beitragshöhe kannst Du frei wählen. Wir freuen uns sehr über Dein Interesse und Deine Unterstützung!
 
-[Zum Antrag für Fördermitglieder](/files/Foerdermitgliedschaft_2021-06-01.pdf).
+[Zum Antrag für Fördermitglieder](/assets/files/Foerdermitgliedschaft_2021-06-01.pdf).
