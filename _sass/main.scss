@@ -59,6 +59,20 @@ body hr {
   color: #EEE;
 }
 
+
+/* Formatting FAQ */
+details > summary {
+  padding: 7px;
+  margin-bottom: 7px;
+  background-color: #f2f2f2;
+  border: none;
+  cursor: pointer;
+}
+details > p { 
+  margin-left: 1em;
+  margin-bottom: 1.5em;
+}
+
 /* Continous text (used in personal site) */
 div.continuous-text {
   float: left;
