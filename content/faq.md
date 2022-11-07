@@ -4,7 +4,7 @@ title: FAQ
 permalink: /faq
 ---
 
-### FAQ
+# FAQ
 <div class="drop-downs">
   <details>
     <summary>
