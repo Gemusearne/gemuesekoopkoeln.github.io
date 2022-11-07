@@ -59,6 +59,34 @@ body hr {
   color: #EEE;
 }
 
+/* Testemonial */
+div.testiominal-group {
+  margin: 1em 0 1em 0;
+}
+
+
+div.testimonial-image {
+  float: left;
+  margin-right: 1em;
+  border-radius:10%;
+  overflow: hidden;
+}
+
+div.testimonial-body {
+  /*font-size: 1.3vw;*/
+}
+
+cite p { margin-bottom: 0; }
+p.testimonial-name { font-size: 14px; }
+p.testimonial-position { font-size: 10px; }
+
+
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
 
 /* Formatting FAQ */
 details > summary {
