@@ -73,6 +73,15 @@ details > p {
   margin-bottom: 1.5em;
 }
 
+/* Grid figures */
+.grid img{
+  width: 49%;
+  float: left;
+  padding: 0px 2px 2px 0px;
+}
+
+.grid { margin-bottom: 10px; }
+
 /* Continous text (used in personal site) */
 div.continuous-text {
   float: left;

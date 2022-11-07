@@ -9,9 +9,10 @@ permalink: /ueber-uns
 Die Gemüsekoop ist ein Zusammenschluss vieler Menschen, die sich in verschiedenen Teams, Depots und Arbeitsgruppen engagieren. Sie organisieren die Arbeit der Koop, den Anbau, die Verteilung und sich selbst in unterschiedlichen Gruppen.
 
 ### Orgateam
+<div class="grid" markdown="1">
 ![Orgateam bei einer Sitzung](/assets/images/infoveranstaltung.jpg)
-
 ![Unsere erste Infoveranstaltung!](/assets/images/orgateam-sitzung.jpg)
+</div>
 
 Hallo! Wir sind das Orga-Team der Gemüsekoop. Wir sind aktuell ca. 10 Leute, mal mehr, mal weniger. Angefangen miteinander zu arbeiten haben wir im Februar 2015 mit dem Aufbau der Gemüsekoop. Bei uns sind die unterschiedlichsten Menschen dabei, von Mitte zwanzig bis Anfang sechzig. Beruflich, geschlechtlich, charakterlich sind wir bunt gemischt, uns alle eint der gemeinsame Gestaltungswille. Wir haben die Liebe zur Landwirtschaft, zur Selbstverwaltung und den Mut, Utopien anzupacken gemeinsam. Seit wir angefangen haben, gemeinsam an diesem Projekt zu arbeiten, wachsen wir immer wieder neu zusammen. Wir freuen uns, wenn neue Mitglieder dazu kommen, denn jeder Mensch hat seine einzigartige Perspektive beizutragen. Wir sind jedes Mal neugierig, wer da noch kommt und was dieser Mensch an Fähigkeiten und Ideen mitbringt. Unsere Gruppe ist offen für jede*n und wir bemühen uns, einen einfachen Einstieg für Neue zu ermöglichen!
 
@@ -38,21 +39,21 @@ Unsere Mitglieder organisieren sich in Arbeitsgruppen und sind auch über die re
 ### Depots
 
 Die Gemüsekoop hat derzeit über 350 Mitglieder, die sich in verschiedenen Stadtteilgruppen zusammenfinden und organisieren. Wir liefern unser Gemüse einmal wöchentlich in die entsprechenden **Stadtteildepots** aus, wo die Mitglieder es abholen.
-Unser Acker
-
-Die Adresse des Hofs ist: Widdersdorfer Landstr. 103, in 50859 Köln-Lövenich
 
 <iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.826535761356355%2C50.95548355451079%2C6.82915359735489%2C50.95717818023661&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=19/50.95633/6.82784">View Larger Map</a></small>
 
 ### Unser Acker
-Die Adresse des Hofs ist: Widdersdorfer Landstr. 103, in 50859 Köln-Lövenich
+Die Adresse des Hofs ist:  
+Widdersdorfer Landstr. 103  
+50859 Köln-Lövenich  
+
 
 Hier seht ihr einige Bilder vom Acker und aus der Koop:
 <div class="grid" markdown=1>
 ![](/assets/images/acker/1.jpg)
-![](/assets/images/acker/2.jpg)
-![](/assets/images/acker/3.jpg)
-![](/assets/images/acker/4.jpg)
 ![](/assets/images/acker/5.jpg)
+![](/assets/images/acker/2.jpg)
+![](/assets/images/acker/4.jpg)
 ![](/assets/images/acker/6.jpg)
+![](/assets/images/acker/3.jpg)
 </div>

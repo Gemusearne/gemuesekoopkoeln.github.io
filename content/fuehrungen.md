@@ -5,16 +5,16 @@ permalink: /fuehrungen
 ---
 
 # Führungen
-Es gibt die Möglichkeit bei uns Führungen zu buchen. Eine Führung dauert 2-3 Stunden und es gibt immer eine kleine Verkostung von unserem Gemüse. Wir bieten Führungen mit verschiedenen Schwerpunkten an. Bei eigenen Themenwünschen, sprecht uns gerne an.
 
-__Kontakt__: fuehrung@gemuesekoop.de
+<div class="grid" markdown="1">
+![Foto Jonathan und Raphael](/assets/images/hoffuehrung1.jpg)
+![Gruppenfoto von einer Führung](/assets/images/hoffuehrung2.jpg)
+</div>
+Es gibt die Möglichkeit bei uns Führungen zu buchen. Eine Führung dauert 2-3 Stunden und es gibt immer eine kleine Verkostung von unserem Gemüse. Wir bieten Führungen mit verschiedenen Schwerpunkten an. Bei eigenen Themenwünschen, sprecht uns gerne an.
 
 Die Hof-Führungen machen Jonathan und/oder Raphael.
 
-![Foto Jonathan und Raphael](/assets/images/hoffuehrung1.jpg)
-![Gruppenfoto von einer Führung](/assets/images/hoffuehrung2.jpg)
-
-
+__Kontakt__: fuehrung@gemuesekoop.de
 
 
 ## Unsere Führungen
