@@ -59,6 +59,12 @@ body hr {
   color: #EEE;
 }
 
+img {
+  padding: 1em 0em 1em 0em;
+}
+
+div.center-figure { text-align: center; }
+
 /* Testemonial */
 div.testiominal-group {
   margin: 1em 0 1em 0;
@@ -108,7 +114,7 @@ details > p {
   padding: 0px 2px 2px 0px;
 }
 
-.grid { margin-bottom: 10px; }
+.grid { margin-bottom: 1em; }
 
 /* Continous text (used in personal site) */
 div.continuous-text {
