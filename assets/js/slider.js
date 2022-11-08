@@ -29,12 +29,15 @@ function showSlides(n) {
 
 function run(first){
   if (first){
-    setTimeout(()=>showSlides(1), 50)
+    setTimeout(()=>{
+      showSlides(1);
+      slideIndex++;
+    }, 50);
   }
   setTimeout(()=>{
       showSlides(slideIndex);
       slideIndex++;
       run();
-    }, 6*1000);
+    }, 5*1000);
 }
 
