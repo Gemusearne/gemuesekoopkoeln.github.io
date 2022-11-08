@@ -2,12 +2,13 @@
 layout: default
 title: Konzept
 permalink: /konzept_solawi
+main_navigation: 2
 ---
 # Was solidarische Landwirtschaft für uns bedeutet – unser Konzept
 
 Auf dieser Seite möchten wir Dir erklären, was wir vorhaben und warum uns 
 Solidarische Landwirtschaft wichtig ist! Viele Fragen findest Du 
-hoffentlich bei den [FAQ’s](/faq) beantwortet – doch hier erst einmal die 
+hoffentlich bei den [FAQs](/faq) beantwortet – doch hier erst einmal die 
 wichtigste:
 
 ## Was ist eigentlich Solidarische Landwirtschaft?
@@ -156,7 +157,7 @@ Darüber hinaus wollen wir Teilzeitarbeit ermöglichen. Außerdem arbeiten wir m
 Die Absicherung der Angestellten durch BG, Rente und Sozialabgaben wird sichergestellt.
 
 
-## Unsere Philosophie/ unsere Werte
+## Unsere Philosophie / unsere Werte
 
 Wir haben ein Bild vom Menschen und vom Zusammenleben zwischen Menschen, das – anstatt durch Konkurrenz – durch aktive Suche nach gemeinsamen Lösungen geprägt ist. Jede*r einzelne mit ihren/seinen Bedürfnissen ist uns wichtig. Unser Ziel ist es, alle Mitglieder der Gruppe mit ihren Bedürfnissen einzubeziehen.
 

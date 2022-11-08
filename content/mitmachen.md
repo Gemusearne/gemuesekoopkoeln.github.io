@@ -2,6 +2,7 @@
 layout: default
 title: Mitmachen
 permalink: /mitmachen
+main_navigation: 3
 ---
 ![Bieterrunde](/assets/images/bieterrunde.jpg)
 

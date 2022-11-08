@@ -2,6 +2,7 @@
 layout: default
 title: Kontakt
 permalink: /kontakt
+main_navigation: 5
 ---
 # Kontakt
 

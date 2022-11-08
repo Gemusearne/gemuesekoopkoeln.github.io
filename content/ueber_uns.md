@@ -2,6 +2,7 @@
 layout: default
 title: Wer wir sind
 permalink: /ueber-uns
+main_navigation: 1
 ---
 
 # Wer wir sind

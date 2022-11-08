@@ -4,15 +4,20 @@ footer > div > div > div.footer-col > a {
   text-decoration: none;
 }
 
-
 /* Logo */
-.site-logo { padding-left: 12em; }
-.site-logo a { text-decoration: none; }
-.site-logo img { width:30%; }
+.site-logo {
+  padding-left: 12em;
+}
+.site-logo a {
+  text-decoration: none;
+}
+.site-logo img {
+  width: 30%;
+}
 
 div.title-tagline-wrap {
-  margin-top:6ex;
-  width:40%;
+  margin-top: 6ex;
+  width: 40%;
   float: left;
 }
 
@@ -20,18 +25,18 @@ div.title-tagline-wrap {
   display: block;
   margin: 0;
   padding: 0;
-  font-size:14px;
+  font-size: 14px;
   color: #8bbf56;
   font-family: "EB Garamond";
   letter-spacing: normal;
 }
 
 .site-logo h1, .site-logo p {
-	margin: 0 0 1ex 0;
-	font-size: 24px;
+  margin: 0 0 1ex 0;
+  font-size: 24px;
   color: #8bbf56;
   line-height: normal;
-  font-weight:400;
+  font-weight: 400;
   font-family: "EB Garamond";
   font-size: 24px;
   letter-spacing: normal;
@@ -43,14 +48,22 @@ div.nav-wrapper {
   width: 80.2%;
 }
 
-.site-nav { float:none; }
+.site-nav {
+  float: none;
+}
 
 /* Body rules */
-body { background-color: #ffffff; }
+body {
+  background-color: #ffffff;
+}
 
-body h2 { padding-top: 3ex; }
+body h2 {
+  padding-top: 3ex;
+}
 
-body h3 { padding-top: 2ex; }
+body h3 {
+  padding-top: 2ex;
+}
 
 body hr {
   margin-top: 2ex;
@@ -62,7 +75,9 @@ img {
   padding: 1em 0em 1em 0em;
 }
 
-div.center-figure { text-align: center; }
+div.center-figure {
+  text-align: center;
+}
 
 /* Testemonial */
 div.testiominal-group {
@@ -73,20 +88,28 @@ div.testiominal-group {
 div.testimonial-image {
   float: left;
   margin-right: 1em;
-  border-radius:10%;
+  border-radius: 10%;
   overflow: hidden;
 }
 
-div.testimonial-image img { padding:0; }
+div.testimonial-image img {
+  padding: 0;
+}
 
 div.testimonial-body {
-  padding-top:2em;
+  padding-top: 2em;
   /*font-size: 1.3vw;*/
 }
 
-cite p { margin-bottom: 0; }
-p.testimonial-name { font-size: 14px; }
-p.testimonial-position { font-size: 10px; }
+cite p {
+  margin-bottom: 0;
+}
+p.testimonial-name {
+  font-size: 14px;
+}
+p.testimonial-position {
+  font-size: 10px;
+}
 
 
 .clearfix:after {
@@ -104,23 +127,54 @@ details > summary {
   border: none;
   cursor: pointer;
 }
-details > p { 
+
+details > p {
   margin-left: 1em;
   margin-bottom: 1.5em;
 }
 
 /* Grid figures */
-.grid img{
+.grid img {
   width: 49%;
   float: left;
   padding: 0px 2px 2px 0px;
 }
 
-.grid { margin-bottom: 1em; }
+.grid {
+  margin-bottom: 1em;
+}
+
+/* boxes landing page */
+.boxes {
+  margin-top: 3em;
+  column-count: 3;
+  column-gap: 2.5em;
+}
+
+.boxes div.box {
+  background-color: #f0f0f0;
+  padding: 2ex 0 2ex 0;
+  text-align: center;
+}
+
+.boxes p {
+  font-weight: bold;
+  font-size: 17px;
+  margin-bottom: .5em;
+}
+
+.boxes a {
+  background-color: #f2a35e;
+  margin-bottom: 0;
+  text-decoration: none;
+  color: white;
+  padding: 1ex 1ex 1ex 1ex;
+}
+
 
 /* Continous text (used in personal site) */
 div.continuous-text {
   float: left;
   width: 65%;
-  padding-right:25px;
+  padding-right: 25px;
 }
