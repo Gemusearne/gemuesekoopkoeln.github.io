@@ -32,13 +32,9 @@
           </span>
         </label>
         <div class="trigger">
-          <a class="page-link" href="/">Hallo</a>
-          <a class="page-link" href="/ueber-uns">Wer wir sind</a>
-          <a class="page-link" href="/konzept_solawi">Konzept</a>
-          <a class="page-link" href="/mitmachen">Mitmachen</a>
-          <a class="page-link" href="/fuehrungen">Führungen</a>
-          <a class="page-link" href="/kontakt">Kontakt</a>
-          <a class="page-link" href="/faq">FAQ</a>
+          {% for item in site.data.navigation.pages %}
+            <a class="page-link {% if item.url == page.url %}active{% endif %}" href="{{ item.url }}" >{{ item.title }}</a>
+          {% endfor %}
         </div>
       </nav>
     </div>

@@ -48,6 +48,22 @@ div.nav-wrapper {
   width: 80.2%;
 }
 
+div.nav-wrapper a {
+  display: inline-block
+  color:#f2a35e;
+}
+
+
+div.nav-wrapper a.active {
+  background-color: transparent;
+  color:#f2a35e;
+}
+
+div.nav-wrapper a:hover {
+  background-color: transparent;
+  color:#8bbf56;
+}
+
 .site-nav {
   float: none;
 }
