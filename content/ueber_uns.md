@@ -41,7 +41,7 @@ Unsere Mitglieder organisieren sich in Arbeitsgruppen und sind auch über die re
 Die Gemüsekoop hat derzeit über 350 Mitglieder, die sich in verschiedenen Stadtteilgruppen zusammenfinden und organisieren. Wir liefern unser Gemüse einmal wöchentlich in die entsprechenden **Stadtteildepots** aus, wo die Mitglieder es abholen.
 
 <iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.826535761356355%2C50.95548355451079%2C6.82915359735489%2C50.95717818023661&amp;layer=mapnik" style="border: 1px solid black"></iframe>
-<br/><small><a href="https://www.openstreetmap.org/#map=19/50.95633/6.82784">View Larger Map</a></small>
+<small><a href="https://www.openstreetmap.org/#map=19/50.95633/6.82784">View Larger Map</a></small>
 
 ## Unser Acker
 Die Adresse des Hofs ist:  
