@@ -6,36 +6,35 @@ footer > div > div > div.footer-col > a {
 
 
 /* Logo */
-.site-logo { padding-left: 9em;}
+.site-logo { padding-left: 12em; }
 .site-logo a { text-decoration: none; }
-
-.site-logo img {
-  width:60%;
-}
+.site-logo img { width:30%; }
 
 div.title-tagline-wrap {
-  margin-top:10ex;
-  width:36%;
+  margin-top:6ex;
+  width:40%;
   float: left;
 }
 
 .site-logo p.small {
-	display: block;
+  display: block;
   margin: 0;
   padding: 0;
   font-size:14px;
   color: #8bbf56;
-  font-family: "Times New Roman", Times, serif;
+  font-family: "EB Garamond";
+  letter-spacing: normal;
 }
 
 .site-logo h1, .site-logo p {
+	margin: 0 0 1ex 0;
 	font-size: 24px;
   color: #8bbf56;
   line-height: normal;
   font-weight:400;
-  font-family: "Times New Roman", Times, serif;
-	margin: 0;
+  font-family: "EB Garamond";
   font-size: 24px;
+  letter-spacing: normal;
 }
 
 /* Navigation rules */
@@ -78,7 +77,10 @@ div.testimonial-image {
   overflow: hidden;
 }
 
+div.testimonial-image img { padding:0; }
+
 div.testimonial-body {
+  padding-top:2em;
   /*font-size: 1.3vw;*/
 }
 

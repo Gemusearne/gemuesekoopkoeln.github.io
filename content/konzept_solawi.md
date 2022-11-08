@@ -10,7 +10,7 @@ Solidarische Landwirtschaft wichtig ist! Viele Fragen findest Du
 hoffentlich bei den [FAQ’s](/faq) beantwortet – doch hier erst einmal die 
 wichtigste:
 
-### Was ist eigentlich Solidarische Landwirtschaft?
+## Was ist eigentlich Solidarische Landwirtschaft?
 In der Solidarischen Landwirtschaft geht es darum, dass ein Hof mit seinen 
 Mitgliedern eine Gemeinschaft bildet. Der Hof baut Gemüse nicht für den 
 anonymen Markt an, auf dem er dann in Konkurrenz zu anderen Betrieben 
@@ -41,11 +41,10 @@ ermöglicht und so eine zukunftsfähige Landwirtschaft stattfinden kann.
 
 Wesentlich ist also, dass eine Gruppe die Abnahme der Erzeugnisse garantiert und die Ernte bzw. die Bewirtschaftung der Flächen gemeinsam vorfinanziert. Alle teilen sich die damit verbundene Verantwortung, das Risiko, die Kosten und die Ernte.
 
-In unserem Konzeptpapier sind Aspekte der Solidarischen Landwirtschaft, die uns wichtig sind, genauer beleuchtet:
+In unserem folgenden Konzeptpapier sind Aspekte der Solidarischen Landwirtschaft, die uns wichtig sind, genauer beleuchtet.
 
----
 
-**Solidarisch wirtschaften statt in Konkurrenz zueinander**
+## Solidarisch wirtschaften statt in Konkurrenz zueinander
 
 Jedem\*r soll unabhängig von den finanziellen Möglichkeiten eine gesunde Ernährung mit regionalen und ökologischen Lebensmitteln ermöglicht werden. Deshalb haben wir variierende Mitgliedsbeiträge, jede\*r bestimmt seinen Beitrag selbst. Das Jahresbudget des Betriebes wird gemeinsam getragen.
 
@@ -59,9 +58,8 @@ Wir bekommen Hilfe und Unterstützung von befreundeten Betrieben und geben Unter
 
 Wir wollen für drängende landwirtschaftliche und gesellschaftliche Themen ein Forum bieten und wollen das Modell der solidarischen Landwirtschaft in die Öffentlichkeit tragen.
 
----
 
-**Finanzierung**
+## Finanzierung
 
 Der laufende Betrieb – Pacht, Personal, Saatgut, Abschreibungen – wird über die monatlichen Beiträge der Mitglieder finanziert. Hierzu wird jeweils vor Saisonbeginn das nötige Jahresbudget zur Bewirtschaftung unseres Betriebes berechnet. Die Monatsbeiträge der einzelnen Mitglieder können unterschiedlich hoch sein, in der Summe muss jedoch das Jahresbudget des Betriebs erreicht werden.
 
@@ -73,9 +71,8 @@ Zusätzlich sollen Stiftungsgelder und Fördermittel eingeworben werden.
 
 Spezielle Betriebsbereiche, wie z.B. Lastenräder für die Verteilung der Lebensmittel, eine Küche zum Einmachen oder eine Backstube, könnten durch Crowdfunding-Kampagnen finanziert werden.
 
----
 
-**Gemeinschaft**
+## Gemeinschaft
 
 Mitarbeit der Mitglieder im Betrieb ist erwünscht! Es soll unter anderem die Verteilung der Lebensmittel von den Mitgliedern organisiert und durchgeführt werden. Bei größeren Projekten wie z.B. Aufbau eines Folientunnels kommen viele Mitglieder zusammen und es wird in der Gemeinschaft gearbeitet.
 
@@ -83,9 +80,8 @@ Die Mitglieder organisieren sich in den Stadtvierteln, so kann eine Gemeinschaft
 
 Die ehrenamtliche Mitarbeit findet auf freiwilliger Basis statt.
 
----
 
-**Ökologisch produzieren**
+## Ökologisch produzieren
 
 Wir wollen keine Lebensmittel verschwenden. Deshalb werden bei uns keine Lebensmittel weggeworfen, nur weil sie nicht marktgerecht aussehen. Ob klein, krumm, dick oder dünn, alles was gut essbar ist, geben wir an unsere Mitglieder weiter.
 
@@ -105,9 +101,8 @@ Wir wollen unsere Produktionsmittel auf kurzen Wegen aus der Region beziehen und
 
 Generell ist uns ein verantwortungsvoller Umgang mit Ressourcen wichtig. Wir möchten auf Dauer weg von fossilen hin zu regenerativen Energiequellen. An sinnvollen Stellen möchten wir Wind- und Solarenergie einsetzen und mögliche Synergieeffekte nutzen, wie z.B. die Abwärme des Kühlhauses für die Beheizung des Jungpflanzengewächshauses.
 
----
 
-**Tierhaltung**
+## Tierhaltung
 
 Wir wollen primär Gemüse produzieren.
 
@@ -121,9 +116,9 @@ Die Verwertung der auf unserem Hof gehaltenen Tiere in Form ihrer Produkte (Eier
 
 Wann immer wir uns mit einem konkreten Projekt der Einbeziehung von Tieren befassen, wollen wir dies nicht auf Basis einer für alle verbindlichen Ernährungslehre tun, sondern auf Basis konkreter Bedürfnisse unserer Mitglieder und unserer gemeinsamen Landwirtschaft. Dabei werden neben praktischen Fragen auch die Finanzierung der jeweiligen Tierhaltung zu klären sein.
 
----
 
-**Interne Arbeits- und Entscheidungsstrukturen**
+
+## Interne Arbeits- und Entscheidungsstrukturen
 
 Wie soll unsere Praxis aussehen, wenn wir mit der produktiven Landwirtschaft begonnen haben? Unser oberstes Entscheidungsgremium wird die Versammlung aller Mitglieder des Vereins. Die vielen Entscheidungen der täglichen Arbeit auf dem Hof wollen wir auf Basis der Grundsatzentscheidungen aller Mitglieder an folgende Gremien delegieren:
 
@@ -150,9 +145,9 @@ Eine Ausnahme vom Konsens gibt es in dem Fall, wo ein Trennungsprozess zwischen 
 
 Wir legen großen Wert auf die Transparenz unseres Tuns, daher sind alle Protokolle von Treffen, Finanzpläne und andere Betriebsdaten für alle Mitglieder und Mitarbeiter\*innen jederzeit durch Anfrage zugänglich. Außerdem setzen wir uns zum Ziel, alle wichtigen Regeln und Absprachen für jede\*n sichtbar zu machen, unabhängig davon, ob sie/er an ihrer Entstehung beteiligt war. Regeln, die wir uns einmal gesetzt haben, haben nur dann Bestand, wenn sie praktisch gelebt werden. Ansonsten hat sich ihre Gültigkeit überlebt. Ebenso können Regeln durch neue Beschlüsse geändert oder ganz aufgehoben werden.
 
----
 
-**Unsere Arbeitnehmer\*innen**
+
+## Unsere Arbeitnehmer\*innen
 
 Wir wollen unseren Arbeitnehmer\*innen so viel bezahlen, dass sie sich für ihre Arbeit auch finanziell wertgeschätzt fühlen. Dies bedeutet eine Bezahlung deutlich oberhalb des Tarifvertrages.
 
@@ -160,9 +155,8 @@ Darüber hinaus wollen wir Teilzeitarbeit ermöglichen. Außerdem arbeiten wir m
 
 Die Absicherung der Angestellten durch BG, Rente und Sozialabgaben wird sichergestellt.
 
----
 
-**Unsere Philosophie/ unsere Werte**
+## Unsere Philosophie/ unsere Werte
 
 Wir haben ein Bild vom Menschen und vom Zusammenleben zwischen Menschen, das – anstatt durch Konkurrenz – durch aktive Suche nach gemeinsamen Lösungen geprägt ist. Jede*r einzelne mit ihren/seinen Bedürfnissen ist uns wichtig. Unser Ziel ist es, alle Mitglieder der Gruppe mit ihren Bedürfnissen einzubeziehen.
 
@@ -178,10 +172,8 @@ Menschen in verantwortlichen Positionen werden im Konsens bestimmt und sind im P
 
 Die Unterschiedlichkeit der Individuen in ihren Fähigkeiten, Lebenserfahrungen und Überzeugungen ist die Basis für all dies. Unser Ziel ist es, diese Vielfalt zum Blühen zu bringen und aus der Unterschiedlichkeit aller Menschen in der Gruppe zu schöpfen. Solch eine Art des Zusammenseins und Zusammenarbeitens kann nicht nur sehr erfüllend sein, sondern auch hochproduktiv.
 
----
 
-
-**Bildung**
+## Bildung
 
 Es soll die Möglichkeit geschaffen werden, sich auf dem Betrieb ausbilden zu lassen. Durch Praktika und Führungen sollen Interessierte Einblick in den Betrieb bekommen.
 
@@ -189,9 +181,8 @@ Wir wollen das Modell der solidarischen Landwirtschaft aktiv in die Gesellschaft
 
 In der Initiative soll ein Raum für die Entwicklung alternativer Wirtschaftsweisen, für Diskussion und Austausch, gegenseitige Hilfe und Unterstützung entstehen.
 
----
 
-**Professioneller Anbau**
+## Professioneller Anbau
 
 Der Anbau der Lebensmittel soll von gut ausgebildeten Fachkräften auf professioneller Basis stattfinden.
 
