@@ -1,0 +1,15 @@
+pages:
+  - title: "Hallo"
+    url: "/"
+  - title: "Wer wir sind"
+    url: "/ueber-uns"
+  - title: "Konzept"
+    url: "/konzept_solawi"
+  - title: "Mitmachen"
+    url: "/mitmachen"
+  - title: "Führungen"
+    url: "/fuehrungen"
+  - title: Kontakt
+    url: "/kontakt"
+  - title: FAQ
+    url: "/faq"
