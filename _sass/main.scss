@@ -6,7 +6,7 @@ footer > div > div > div.footer-col > a {
 
 /* Logo */
 .site-logo {
-  padding-left: 12em;
+  padding-left: 15ex;
 }
 .site-logo a {
   text-decoration: none;
@@ -16,9 +16,10 @@ footer > div > div > div.footer-col > a {
 }
 
 div.title-tagline-wrap {
-  margin-top: 6ex;
+  margin-top: 3.5em;
+  margin-right:110px;
   width: 40%;
-  float: left;
+  float:right;
 }
 
 .site-logo p.small {
@@ -40,6 +41,21 @@ div.title-tagline-wrap {
   font-family: "EB Garamond";
   font-size: 24px;
   letter-spacing: normal;
+}
+
+@media screen and (max-width: 782px) {
+  .site-logo {
+    padding-left: 0;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .title-with-logo img {
+    width: 100%;
+  }
+  div.title-tagline-wrap {
+    display:none;
+  }
 }
 
 /* Navigation rules */
@@ -117,13 +133,6 @@ div.nav-wrapper a:hover {
         text-align: center;
     }
 }
-/*@media only screen and (min-width: 591px) and (max-width: 765px){ 
-	li.person a > p:nth-child(2) {
-		visibility:hidden;
-	}
-}*/
-	
-
 
 /* Body rules */
 body {
