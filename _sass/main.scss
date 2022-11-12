@@ -53,7 +53,6 @@ div.nav-wrapper a {
   color:#f2a35e;
 }
 
-
 div.nav-wrapper a.active {
   background-color: transparent;
   text-decoration:none;
@@ -69,6 +68,62 @@ div.nav-wrapper a:hover {
 .site-nav {
   float: none;
 }
+
+@media screen and (max-width: 764px) {
+    .site-nav .menu-icon > svg {
+        fill: #424242;
+    }
+    .site-nav input:checked ~ .trigger {
+        display: block;
+        padding-bottom: 5px;
+    }
+    .site-nav .page-link {
+        display: block;
+        padding: 5px 10px;
+        margin-left: 20px;
+    }
+    .site-nav .page-link:not(:last-child) {
+        margin-right: 0;
+    }
+    .site-nav {
+        position: absolute;
+        top: 9px;
+        right: 15px;
+        background-color: #fdfdfd;
+        border: 1px solid #e8e8e8;
+        border-radius: 5px;
+        text-align: right;
+    }
+    .site-nav input ~ .trigger {
+        clear: both;
+        display: none;
+    }
+    .site-nav label[for="nav-trigger"] {
+        display: block;
+        float: right;
+        width: 36px;
+        height: 36px;
+        z-index: 2;
+        cursor: pointer;
+    }
+    .site-nav .menu-icon {
+        display: block;
+        float: right;
+  
+        width: 36px;
+        height: 26px;
+        line-height: 0;
+        padding-top: 10px;
+        text-align: center;
+    }
+}
+/*@media only screen and (min-width: 591px) and (max-width: 765px){ 
+	li.person a > p:nth-child(2) {
+		visibility:hidden;
+	}
+}*/
+	
+
 
 /* Body rules */
 body {
