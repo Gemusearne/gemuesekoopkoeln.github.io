@@ -253,6 +253,11 @@ details > p {
   padding: 1ex 1ex 1ex 1ex;
 }
 
+@media screen and (max-width: 565px) {
+  .boxes {
+    column-count: 1;
+  }
+}
 
 /* Continous text (used in personal site) */
 div.continuous-text {
