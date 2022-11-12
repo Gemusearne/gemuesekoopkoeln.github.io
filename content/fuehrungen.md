@@ -15,7 +15,7 @@ Es gibt die Möglichkeit bei uns Führungen zu buchen. Eine Führung dauert 2-3 
 
 Die Hof-Führungen machen Jonathan und/oder Raphael.
 
-__Kontakt__: fuehrung@gemuesekoop.de
+__Kontakt__: [fuehrung(at)gemuesekoop.de](mailto:fuehrung(at)gemuesekoop.de)
 
 
 ## Unsere Führungen

@@ -2,17 +2,15 @@
 layout: default
 title: Mitmachen
 permalink: /mitmachen
-main_navigation: 3
 ---
 ![Bieterrunde](/assets/images/bieterrunde.jpg)
 
 ## Mitmachen
 Du hast Interesse daran, Teil der Gemüsekoop zu werden? Wir freuen uns darüber!
 
-Unser Gartenjahr beginnt jeweils zum 1. März eines Jahres. Die solidarische Preisgestaltung ist ein Eckpfeiler unseres Konzepts, deshalb treffen wir uns im Normalfall einmal im Jahr mit allen Mitgliedern zur Beitragsrunde. Bei dieser Gelegenheit empfangen wir auch neue Mitglieder in der Koop.
-Auch für die Saison 2022/2023 verzichten wir coronabedingt auf unsere große Jahresveranstaltung, die Beitragsrunde. Stattdessen fragen wir die Warteliste chronologisch ab und vergeben die frei werdenden Ernteanteile ausschließlich darüber.
-Aktuell ist diese gut gefüllt und es kann sein, dass, wenn du dich jetzt eintragen lässt, es für dich erst im Laufe der nächsten Saison einen freien Anteil gibt.  
-Kennenlern-Termine können derzeit ebenfalls nur bedingt stattfinden. Wir versuchen aber dennoch, Ackertage, eine Hofführung oder Info-Veranstaltungen anzubieten! Sprich uns gerne an oder schau in den Kalender auf der Startseite!
+Unser Gartenjahr beginnt jeweils zum 1. März eines Jahres. Die solidarische Preisgestaltung ist ein Eckpfeiler unseres Konzepts, deshalb treffen wir uns einmal im Jahr mit allen Mitgliedern zur Beitragsrunde. Bei dieser Gelegenheit empfangen wir auch neue Mitglieder in der Koop.
+
+Es gibt immer wieder Kennenlern-Termine am Hof, um die Koop kennenzulernen. Hierbei handelt es sich um, Ackertage, Hofführungen oder Info-Veranstaltungen. Sprich uns gerne hierzu an.
 
 Wenn Du dich auf die Warteliste eintragen möchtest, einfach das [Formular](/assets/files/Wartelistenantrag2023.pdf) ausdrucken und per Post (Widdersdorfer Landstraße 103, 50859 Köln) oder als Scan an support@gemuesekoop.de schicken.
 

@@ -11,7 +11,7 @@ main_navigation: 0
   <video autoplay="" controls="" loop="" muted="" src="/assets/videos/start_video.mp4" width="100%"></video>
 </figure>
 
-Auf 2,4ha gepachteter Fläche im Kölner Westen bauen wir auf ca 1,4ha seit dem Frühjahr 2017 für uns und unsere Mitglieder über 45 Sorten Gemüse an – regional, saisonal und biologisch! Unsere Ernte liefern wir einmal wöchentlich ins Kölner Stadtgebiet, wo sie unter den derzeit 230 aktiven Mitgliedern der Gemüsekoop aufgeteilt wird. Parallel dazu sind wir mit Aufbau und Entwicklung unseres Betriebes beschäftigt.
+Auf 2,4ha gepachteter Fläche im Kölner Westen bauen wir auf ca 1,4ha seit dem Frühjahr 2017 für uns und unsere Mitglieder über **45 Sorten Gemüse** an – **regional**, **saisonal** und **biologisch**! Unsere Ernte liefern wir einmal wöchentlich ins Kölner Stadtgebiet, wo sie unter den derzeit **240 aktive Haushalte** der Gemüsekoop aufgeteilt wird. Parallel dazu sind wir mit Aufbau und Entwicklung unseres Betriebes beschäftigt.
 
 
 <div class="boxes">
@@ -29,10 +29,12 @@ Auf 2,4ha gepachteter Fläche im Kölner Westen bauen wir auf ca 1,4ha seit dem 
   </div>
 </div>
 
+<!--
 ## Newsletter
 Für regelmäßige Infos zu Veranstaltungen etc. kannst  Du dich hier in unseren Newsletter eintragen:
 
 E-Mail Adresse: *Mailchimp*
+-->
 
 ## Unsere Mitglieder sprechen
 

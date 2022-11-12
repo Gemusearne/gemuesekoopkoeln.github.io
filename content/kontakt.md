@@ -6,8 +6,12 @@ main_navigation: 5
 ---
 # Kontakt
 
+Zur Orga, oder zum Hof
 Schickt uns eine Mail an [info(at)gemuesekoop.de](mailto:info(at)gemuesekoop.de)
 
-### Newsletter der Gemüsekoop
 
-TODO: Mailchimp
+Für Verwaltung betreffen den Support
+support 
+
+kennenlernen: Mittwoch oder Donnerstag am Hof vorbei kommen --> kurze mail an die Info
+

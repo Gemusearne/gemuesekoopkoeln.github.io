@@ -2,7 +2,6 @@
 layout: default
 title: Wer wir sind
 permalink: /ueber-uns
-main_navigation: 1
 ---
 
 # Wer wir sind
@@ -37,9 +36,14 @@ Zu unseren Aufgaben gehört die Kontobetreuung und Finanzverwaltung, wir machen 
 
 Unsere Mitglieder organisieren sich in Arbeitsgruppen und sind auch über die reine Solawi-Arbeit hinaus vernetzt.
 
+Zur Zeit sind folgende AGs aktiv:
+ - Einkaufs-AG
+ - Imkerei-AG
+ - IT-AG
+
 ## Depots
 
-Die Gemüsekoop hat derzeit über 350 Mitglieder, die sich in verschiedenen Stadtteilgruppen zusammenfinden und organisieren. Wir liefern unser Gemüse einmal wöchentlich in die entsprechenden **Stadtteildepots** aus, wo die Mitglieder es abholen.
+Die Gemüsekoop hat derzeit über 240 Haushalte, die sich in verschiedenen Stadtteilgruppen zusammenfinden und organisieren. Wir liefern unser Gemüse einmal wöchentlich in die entsprechenden **Stadtteildepots** aus, wo die Mitglieder es abholen.
 
 <iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=6.826535761356355%2C50.95548355451079%2C6.82915359735489%2C50.95717818023661&amp;layer=mapnik" style="border: 1px solid black"></iframe>
 <small><a href="https://www.openstreetmap.org/#map=19/50.95633/6.82784">View Larger Map</a></small>

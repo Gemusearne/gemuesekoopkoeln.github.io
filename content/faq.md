@@ -5,7 +5,7 @@ permalink: /faq
 main_navigation: 6
 ---
 
-# FAQ
+# Infos
 <div class="drop-downs">
   <details>
     <summary>
@@ -100,6 +100,8 @@ main_navigation: 6
         <tr>
             <td></td>
             <td>Minze 0,03 kg</td>
+            <td></td>
+            <td></td>
         </tr>
     </table>
       Diese Zahlen stammen aus der Statistik der Freiburger GartenCoop und nicht aus unserem eigenen Anbau! Sie können euch aber eine gute Idee davon geben, was wir eigentlich meinen, wenn wir in Mitteleuropa von “regionalem, saisonalem” Gemüse sprechen! In Kürze wird diese Tabelle durch eine erste Übersicht unserer eigenen Ernten ersetzt.
@@ -143,9 +145,9 @@ main_navigation: 6
       Das Prinzip der SoLaWi ist es, dass du nicht für das Gemüse bezahlst, sondern für die Landwirtschaft, also für den Lohn der Angestellten sowie die Geräte und Materialen, die es braucht, um die Fläche zu bewirtschaften und alle Kosten, die in einem laufenden Betrieb sonst noch so anfallen. Zudem wünschen wir uns eine solidarische Preisgestaltung. Das bedeutet: Wir errechnen einen Richtwert, den jedes Mitglied im Schnitt pro Monat zahlen müsste, damit wir die Bewirtschaftung finanziell stemmen können. Wenn Einzelne nun mehr für ihren Anteil zahlen, weil es Ihnen möglich und wichtig genug ist, zeigen sie sich solidarisch mit Anderen, denen es sonst nicht möglich wäre. Diese solidarische Preisgestaltung findet auf der sogenannten Beitragsrunde statt.  
       
       <ul>
-        <li>Richtwert für einen kleinen Anteil (versorgt ein bis zwei Personen) sind aktuell  60 € / Monat.
+        <li>Richtwert für einen kleinen Anteil (versorgt ein bis zwei Personen) sind aktuell  66 € / Monat.
         </li>
-        <li>Für einen großen Anteil (versorgt zwei bis vier Personen) veranschlagen wir aktuell 100 € / Monat.
+        <li>Für einen großen Anteil (versorgt zwei bis vier Personen) veranschlagen wir aktuell 122 € / Monat.
         </li>
         <li>Zudem rechnen wir mit einer Investitionseinlage pro Anteil – diese Einlage ist für  große und kleine Anteile gleich hoch.
         </li>

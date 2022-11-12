@@ -2,7 +2,6 @@
 layout: default
 title: Konzept
 permalink: /konzept_solawi
-main_navigation: 2
 ---
 # Was solidarische Landwirtschaft für uns bedeutet – unser Konzept
 
@@ -96,7 +95,7 @@ Ein langfristiges Ziel ist es, standortangepasste Sorten anzubauen und ggf. züc
 
 Was die Tierhaltung angeht, möchten wir klein starten und uns dann in ein paar Jahren, wenn sich alles gut eingespielt hat, vergrößern und vielfältiger aufstellen. Die Nutztiere sollten möglichst robust und an unseren Standort angepasst sein. Neben tierischen Produkten wie Fleisch, Eier etc. tragen die Tiere auch zur Landschaftspflege bei und haben weitere nützliche Funktionen im Agrarökosystem. Tiere sind für den Gemüsebau wichtig, weil sie einen großen Beitrag zur Bodenfruchtbarkeit leisten. Sie können Erntereste verwerten und in wichtigen organischen Dünger (Mist) umsetzen. Durch den Umsatz von hofeigenem und zugekauftem Futter tragen sie maßgeblich zu einer ausgeglichenen Hoftorbilanz bei. Auch deshalb streben wir eine, der Flächengröße angepasste, vielfältige Tierhaltung an.
 
-Wir überlegen noch, ob wir einem Bio-Anbauverband beitreten möchten. Da unsere Mitglieder jederzeit auf den Hof kommen können und wir unseren Anbau transparent gestalten, ist eine Zertifizierung nicht unbedingt notwendig.
+Wir überlegen noch, ob wir einem Bio-Anbauverband beitreten möchten. Bei Bioland haben wir einen Beratungsvertrag und dadurch Zugriff auf das Netzwerk und Veranstaltungen. Einmal im Jahr besucht uns ein Berater von Bioland und diskutiert mit uns den Anbau. Da unsere Mitglieder jederzeit auf den Hof kommen können und wir unseren Anbau transparent gestalten, ist eine Zertifizierung nicht unbedingt notwendig. 
 
 Wir wollen unsere Produktionsmittel auf kurzen Wegen aus der Region beziehen und damit ein Netzwerk aus kooperierenden Betrieben aufbauen. Das könnte z.B. eine Futter-Mist-Kooperation mit einem benachbarten Bio-Bauer oder eine gemeinsame Jungpflanzenaufzucht mehrerer Betriebe sein.
 
