@@ -2,7 +2,6 @@
 layout: default
 title: FAQ
 permalink: /faq
-main_navigation: 6
 ---
 
 # Infos
@@ -107,7 +106,7 @@ main_navigation: 6
       Diese Zahlen stammen aus der Statistik der Freiburger GartenCoop und nicht aus unserem eigenen Anbau! Sie können euch aber eine gute Idee davon geben, was wir eigentlich meinen, wenn wir in Mitteleuropa von “regionalem, saisonalem” Gemüse sprechen! In Kürze wird diese Tabelle durch eine erste Übersicht unserer eigenen Ernten ersetzt.
       
       Hier aber schonmal als “Vorgeschmack” ein Foto von einer unserer Lieferungen im Sommer (August 2017).
-      <img alt="Lager" src="/assets/images/lager.jpg" width="100%">
+      <img alt="Lager" loading="lazy" src="/assets/images/faq/lager.jpg" width="100%">
     </p>
   </details>
   <details>
@@ -115,7 +114,9 @@ main_navigation: 6
       Wie läuft die Verteilung des Gemüses ab?
     </summary>
     <p>
-      Wir ernten einmal pro Woche (jeweils Donnerstag) und liefern unser Gemüse dann ins Kölner Stadtgebiet an sog. Stadtteildepots. Dort wiegt ihr eure Gemüseanteile selbst aus den Kisten ab. Dazu liegt eine Liste aus, in der steht, wieviel Gemüse pro Anteil enthalten ist. Unter Wer sind wir findet ihr eine Übersicht darüber, <a href="https://web.archive.org/web/20220520234043/https://www.gemuesekoop.de/ueber-uns/">in welchen Stadtvierteln wir derzeit Depots beliefern</a>.
+      Wir ernten einmal pro Woche (jeweils Donnerstag) und liefern unser Gemüse dann ins Kölner Stadtgebiet an sog. Stadtteildepots. Dort wiegt ihr eure Gemüseanteile selbst aus den Kisten ab. Dazu liegt eine Liste aus, in der steht, wieviel Gemüse pro Anteil enthalten ist. Unter "Wer wir sind" findet ihr eine Übersicht darüber, <a href="/ueber-uns#depots">in welchen Stadtvierteln wir derzeit Depots beliefern</a>. Ein Route unserer Verteilung an die Depots ist in diesem Bild dargestellt.
+      <img alt="Die Verteilung auf die Depots" loading="lazy" width="100%" src="/assets/images/faq/verteilung-kein-rahmen.png"/>
+      
     </p>
     <p>
       Eine Erfahrung aus anderen Solawis: Depots funktionieren um so besser, je besser sich die Depotgruppe untereinander kennt. D.h. kleine Depotfeiern abhalten, etwas länger da sein und mit den Anderen klönen, oder sich einfach auch neben der Abholung mal treffen, machen nicht nur Spaß, sondern sorgen auch für einen reibungslosen Ablauf.
