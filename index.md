@@ -2,7 +2,6 @@
 layout: default
 title: Hallo
 slider: true
-main_navigation: 0
 ---
 
 # Herzlich willkommen bei der Gemüsekoop Köln!
@@ -38,7 +37,7 @@ E-Mail Adresse: *Mailchimp*
 
 ## Unsere Mitglieder sprechen
 
-<div class="slideshow-container">
+<div id="testimonial" class="slideshow-container">
   {% include testimonial.html image="fabian-200x200.jpg" text="Die Gemüsekoop ermöglicht uns lokales und regionales Gemüse zu beziehen. Die solidarische Preisgestaltung und die guten Arbeitsbedingungen sind mir dabei besonders wichtig." name="Fabian" position="Mitglied" %}
 
   {% include testimonial.html image="raphael-200x200.jpg" text="Eine zukunftsfähige Form der Landwirtschaft machen, täglich draußen an der frischen Luft sein, Ideen umsetzen können und dass mit einem Tollen Team und guten Arbeitsbedingungen. Danke an Alle, die das möglich machen!" name="Raphael" position="Anbau-Team " %}
@@ -48,15 +47,10 @@ E-Mail Adresse: *Mailchimp*
   {% include testimonial.html image="maren-200x200.jpg" text="Die Gemüsekoop ist für mich viel mehr als Gemüse. Wir sind eine Gemeinschaft geworden und schaffen einen Raum, in dem Wertschätzung, Solidarität und Gestaltung erlebt und gelebt werden können." name="Maren" position="Orga-Team" %}
 
   <!-- Next and previous buttons -->
-  <!--a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a-->
-
+  <a class="prev">&#10094;</a>
+  <a class="next">&#10095;</a>
   <!-- The dots/circles -->
-  <div style="text-align:center">
-    <span class="dot" onclick="currentSlide(1)"></span>
-    <span class="dot" onclick="currentSlide(2)"></span>
-    <span class="dot" onclick="currentSlide(3)"></span>
-    <span class="dot" onclick="currentSlide(4)"></span>
+  <div class="dots" style="text-align:center">
   </div>
 </div>
 
