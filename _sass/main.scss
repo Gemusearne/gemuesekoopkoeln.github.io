@@ -13,6 +13,7 @@ footer > div > div > div.footer-col > a {
 }
 .site-logo img {
   width: 30%;
+  height: auto;
 }
 
 div.title-tagline-wrap {
@@ -52,6 +53,7 @@ div.title-tagline-wrap {
   }
   .title-with-logo img {
     width: 100%;
+    height: auto;
   }
   div.title-tagline-wrap {
     display:none;
@@ -183,6 +185,7 @@ div.testimonial-image {
   }
   div.testimonial-image img {
     width: 80%;
+    height: auto;
   }
 }
 
@@ -230,6 +233,7 @@ details > p {
 /* Grid figures */
 .grid img {
   width: 49%;
+  height: auto;
   float: left;
   padding: 0px 2px 2px 0px;
 }
