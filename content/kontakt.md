@@ -2,16 +2,16 @@
 layout: default
 title: Kontakt
 permalink: /kontakt
-main_navigation: 5
 ---
 # Kontakt
 
-Zur Orga, oder zum Hof
-Schickt uns eine Mail an [info(at)gemuesekoop.de](mailto:info(at)gemuesekoop.de)
+Wenn du Fragen zur Organisation oder zum Hof hast,
+schick uns eine Mail an: [info(at)gemuesekoop.de](mailto:info(at)gemuesekoop.de).
+
+Fürs kennenlernen kannst du uns auch Mittwochs oder Donnerstags am Hof besuchen kommen.
+Nutze dafür ebenfalls diese Emailadresse.
+
+Für Fragen betreffend der Verwaltung und deiner Mitgliedschaft, kannst du unserem [Support](mailto:support(at)gemuesekoop.de) schreiben.
 
 
-Für Verwaltung betreffen den Support
-support 
-
-kennenlernen: Mittwoch oder Donnerstag am Hof vorbei kommen --> kurze mail an die Info
 
