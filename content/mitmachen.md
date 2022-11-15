@@ -3,7 +3,7 @@ layout: default
 title: Mitmachen
 permalink: /mitmachen
 ---
-![Bieterrunde](/assets/images/bieterrunde.jpg)
+<img loading="lazy" alt="Menschen sitzen im Saal" width="100%" height="auto" src="/assets/images/mitmachen/bieterrunde.jpg" /> 
 
 ## Mitmachen
 Du hast Interesse daran, Teil der Gemüsekoop zu werden? Wir freuen uns darüber!

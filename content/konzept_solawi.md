@@ -36,7 +36,8 @@ gestaltet, soziales Miteinander, Naturschutz und (Arten-)Vielfalt
 ermöglicht und so eine zukunftsfähige Landwirtschaft stattfinden kann.
 
 <div class="center-figure">
-  <img alt="Solawi Prinzip" width="80%" src="/assets/images/solawi_prinzip.jpg" />
+  <img alt="Solawi Prinzip" loading="lazy" width="80%"
+   src="/assets/images/konzept_solawi/solawi_prinzip.jpg" />
 </div>
 
 Wesentlich ist also, dass eine Gruppe die Abnahme der Erzeugnisse garantiert und die Ernte bzw. die Bewirtschaftung der Flächen gemeinsam vorfinanziert. Alle teilen sich die damit verbundene Verantwortung, das Risiko, die Kosten und die Ernte.
@@ -130,7 +131,8 @@ Wie soll unsere Praxis aussehen, wenn wir mit der produktiven Landwirtschaft beg
 Hier eine Übersicht, wie unsere Orga-Struktur aufgebaut ist:
 
 <div class="center-figure">
-  <img alt="Koop Organigram" src="/assets/images/Organigram-medium.png" />
+  <img alt="Koop Organigram" loading="lazy" width="95%"
+   src="/assets/images/konzept_solawi/Struktur-der-Koop.png" />
 </div>
 
 Zwischen den Mitgliederversammlungen (die mindestens zweijährlich, ansonsten nach Bedarf tagen) ist das Orga-Team das einzige Entscheidungsgremium. Darüber hinaus erhalten Anbau-Team, Support-Team und ggf. auch Arbeitsgruppen Kompetenzen arbeitsteilig zugesprochen, in deren Rahmen sie eigenständig handeln können.
