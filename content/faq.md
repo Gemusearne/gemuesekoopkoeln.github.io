@@ -12,7 +12,6 @@ permalink: /faq
     </summary>
     <p>      
       Das Gartenjahr der Gemüsekoop läuft jeweils von Anfang März bis Ende Februar des Folgejahres. Unsere neue Saison beginnt wieder zum 1. März.<br />
-      Die Ernteanteile vergeben wir in diesem Jahr ausnahmsweise per Mail, da wir leider keine große, persönliche Beitragsrunde machen können. Mehr Infos dazu findest du <a href="/mitmachen">hier</a>.<br />
       Wenn Du jetzt schon weißt, dass du dabei sein möchtest, trage dich auf unsere <a href="/mitmachen">Warteliste</a> ein.
       Kennenlern-Termine können derzeit nur bedingt stattfinden. Wir versuchen aber dennoch, Ackertage, eine Hofführung oder Info-Veranstaltungen anzubieten! Sprich uns gerne an oder schau in den Kalender auf der Startseite!
     </p>

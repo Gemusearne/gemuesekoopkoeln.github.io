@@ -10,9 +10,11 @@ Du hast Interesse daran, Teil der Gemüsekoop zu werden? Wir freuen uns darüber
 
 Unser Gartenjahr beginnt jeweils zum 1. März eines Jahres. Die solidarische Preisgestaltung ist ein Eckpfeiler unseres Konzepts, deshalb treffen wir uns einmal im Jahr mit allen Mitgliedern zur Beitragsrunde. Bei dieser Gelegenheit empfangen wir auch neue Mitglieder in der Koop.
 
+Am 20.11.2022 findet unsere große Beitragsrunde statt, in der wir die Gemüseanteile für die Saison 2023/24 vergeben. Wenn du ab März 2023 unser Gemüse beziehen möchtest, lass dich auf die Warteliste eintragen, um dir einen freien Anteil zu sichern. 
+
 Es gibt immer wieder Kennenlern-Termine am Hof, um die Koop kennenzulernen. Hierbei handelt es sich um, Ackertage, Hofführungen oder Info-Veranstaltungen. Sprich uns gerne hierzu an.
 
-Wenn Du dich auf die Warteliste eintragen möchtest, einfach das [Formular](/assets/files/Wartelistenantrag2023.pdf) ausdrucken und per Post (Widdersdorfer Landstraße 103, 50859 Köln) oder als Scan an support@gemuesekoop.de schicken.
+Deinen ausgefüllten [Wartelistenantrag](/assets/files/Wartelistenantrag2023.pdf) kannst du als Scan an support@gemuesekoop.de oder per Post an Gemüsekoop Köln e.V.- Support, Widdersdorfer Landstr. 103, 50859 Köln schicken.
 
 Unsere Vereinssatzung gibt es [hier](/assets/files/satzung.pdf).
 
