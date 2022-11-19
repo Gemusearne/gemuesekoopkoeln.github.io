@@ -246,12 +246,13 @@ details > p {
 .boxes {
   margin-top: 3em;
   column-count: 3;
-  column-gap: 2.5em;
+  column-gap: 8px;
 }
 
 .boxes div.box {
+  min-width: 184px;
   background-color: #f0f0f0;
-  padding: 2ex 0 2ex 0;
+  padding: 2.5ex 0 3ex 0;
   text-align: center;
 }
 
@@ -269,9 +270,12 @@ details > p {
   padding: 1ex 1ex 1ex 1ex;
 }
 
-@media screen and (max-width: 565px) {
+@media screen and (max-width: 575px) {
   .boxes {
     column-count: 1;
+  }
+  .boxes div.box {
+    margin-top: 5px;
   }
 }
 
