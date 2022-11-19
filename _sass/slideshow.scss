@@ -16,7 +16,7 @@
   cursor: pointer;
   position: absolute;
   width: auto;
-  margin-top: -22px;
+  margin-top: -16px;
   padding: 16px;
   color: white;
   font-weight: bold;
@@ -60,7 +60,11 @@
 }
 
 /* The dots/bullets/indicators */
+.dots {
+  margin-top: 7px;
+}
 .dot {
+  margin-top:4px;
   cursor: pointer;
   height: 15px;
   width: 15px;
