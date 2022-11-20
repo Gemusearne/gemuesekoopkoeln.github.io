@@ -2,6 +2,7 @@
 layout: default
 title: Wer wir sind
 permalink: /ueber-uns
+description: "Eine Beschreibung unserer verschiedenen Gruppen, AGs und wie du uns findest"
 slider: 
   - "acker"
   - "anbau"
