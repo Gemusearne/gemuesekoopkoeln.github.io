@@ -13,8 +13,8 @@ Die Gemüsekoop ist ein Zusammenschluss vieler Menschen, die sich in verschieden
 
 ## Orgateam
 <div class="grid" markdown="1">
-  <img loading="lazy" alt="Orgateam bei einer Sitzung" src="/assets/images/ueber-uns/infoveranstaltung.jpg">
-  <img loading="lazy" alt="Unsere erste Infoveranstaltung!"
+  <img loading="lazy" width="365px" height="274px" alt="Orgateam bei einer Sitzung" src="/assets/images/ueber-uns/infoveranstaltung.jpg">
+  <img loading="lazy" width="365px" height="274px" alt="Unsere erste Infoveranstaltung!"
   src="/assets/images/ueber-uns/orgateam-sitzung.jpg"/> 
 </div>
 
@@ -24,29 +24,29 @@ Hallo! Wir sind das Orga-Team der Gemüsekoop. Wir sind aktuell ca. 10 Leute, ma
 <!--img loading="lazy" alt="Anbauteam bei der Arbeit" src="/assets/images/ueber-uns/anbauteam300x200.jpg"/-->
 
 <div id="anbau" class="slideshow-container">
-  <div class="slide-content fade" width="675" height="451" >
-    <img loading="lazy" width="100%" height="auto" src="/assets/images/ueber-uns/anbauteam/1.jpg"/>
+  <div class="slide-content fade">
+    <img loading="lazy" width="762" height="540" src="/assets/images/ueber-uns/anbauteam/1.jpg"/>
   </div>
-  <div class="slide-content fade" width="675" height="451" >
-    <img loading="lazy" width="100%" height="auto" src="/assets/images/ueber-uns/anbauteam/2.jpg"/>
+  <div class="slide-content fade">
+    <img loading="lazy" width="762" height="540" src="/assets/images/ueber-uns/anbauteam/2.jpg"/>
   </div>
-  <div class="slide-content fade" width="675" height="451" >
-    <img loading="lazy" width="100%" height="auto" src="/assets/images/ueber-uns/anbauteam/3.jpg"/>
+  <div class="slide-content fade">
+    <img loading="lazy" width="762" height="540" src="/assets/images/ueber-uns/anbauteam/3.jpg"/>
   </div>
-  <div class="slide-content fade" width="675" height="451" >
-    <img loading="lazy" width="100%" height="auto" src="/assets/images/ueber-uns/anbauteam/4.jpg"/>
+  <div class="slide-content fade">
+    <img loading="lazy" width="762" height="540" src="/assets/images/ueber-uns/anbauteam/4.jpg"/>
   </div>
-  <div class="slide-content fade" width="675" height="451" >
-    <img loading="lazy" width="100%" height="auto" src="/assets/images/ueber-uns/anbauteam/5.jpg"/>
+  <div class="slide-content fade">
+    <img loading="lazy" width="762" height="540" src="/assets/images/ueber-uns/anbauteam/5.jpg"/>
   </div>
-  <div class="slide-content fade" width="675" height="451" >
-    <img loading="lazy" width="100%" height="auto" src="/assets/images/ueber-uns/anbauteam/6.jpg"/>
+  <div class="slide-content fade">
+    <img loading="lazy" width="762" height="540" src="/assets/images/ueber-uns/anbauteam/6.jpg"/>
   </div>
-  <div class="slide-content fade" width="675" height="451" >
-    <img loading="lazy" width="100%" height="auto" src="/assets/images/ueber-uns/anbauteam/7.jpg"/>
+  <div class="slide-content fade">
+    <img loading="lazy" width="762" height="540" src="/assets/images/ueber-uns/anbauteam/7.jpg"/>
   </div>
-  <div class="slide-content fade" width="675" height="451" >
-    <img loading="lazy" width="100%" height="auto" src="/assets/images/ueber-uns/anbauteam/8.jpg"/>
+  <div class="slide-content fade">
+    <img loading="lazy" width="762" height="540" src="/assets/images/ueber-uns/anbauteam/8.jpg"/>
   </div>
   <!-- Next and previous buttons -->
   <a class="prev">&#10094;</a>
@@ -85,29 +85,29 @@ Widdersdorfer Landstr. 103
 
 Hier seht ihr einige Bilder vom Acker und aus der Koop:
 <div id="acker" class="slideshow-container">
-  <div class="slide-content fade" width="675" height="451" >
-    <img loading="lazy" width="100%" height="auto" src="/assets/images/ueber-uns/hof/1.jpg"/>
+  <div class="slide-content fade">
+    <img loading="lazy" width="762" height="auto" src="/assets/images/ueber-uns/hof/1.jpg"/>
   </div>
-  <div class="slide-content fade" width="675" height="451" >
-    <img loading="lazy" width="100%" height="auto" src="/assets/images/ueber-uns/hof/2.jpg"/>
+  <div class="slide-content fade">
+    <img loading="lazy" width="762" height="auto" src="/assets/images/ueber-uns/hof/2.jpg"/>
   </div>
-  <div class="slide-content fade" width="675" height="451" >
-    <img loading="lazy" width="100%" height="auto" src="/assets/images/ueber-uns/hof/3.jpg"/>
+  <div class="slide-content fade">
+    <img loading="lazy" width="762" height="auto" src="/assets/images/ueber-uns/hof/3.jpg"/>
   </div>
-  <div class="slide-content fade" width="675" height="451" >
-    <img loading="lazy" width="100%" height="auto" src="/assets/images/ueber-uns/hof/4.jpg"/>
+  <div class="slide-content fade">
+    <img loading="lazy" width="762" height="auto" src="/assets/images/ueber-uns/hof/4.jpg"/>
   </div>
-  <div class="slide-content fade" width="675" height="451" >
-    <img loading="lazy" width="100%" height="auto" src="/assets/images/ueber-uns/hof/5.jpg"/>
+  <div class="slide-content fade">
+    <img loading="lazy" width="762" height="auto" src="/assets/images/ueber-uns/hof/5.jpg"/>
   </div>
-  <div class="slide-content fade" width="675" height="451" >
-    <img loading="lazy" width="100%" height="auto" src="/assets/images/ueber-uns/hof/6.jpg"/>
+  <div class="slide-content fade">
+    <img loading="lazy" width="762" height="auto" src="/assets/images/ueber-uns/hof/6.jpg"/>
   </div>
-  <div class="slide-content fade" width="675" height="451" >
-    <img loading="lazy" width="100%" height="auto" src="/assets/images/ueber-uns/hof/7.jpg"/>
+  <div class="slide-content fade">
+    <img loading="lazy" width="762" height="auto" src="/assets/images/ueber-uns/hof/7.jpg"/>
   </div>
-  <div class="slide-content fade" width="675" height="451" >
-    <img loading="lazy" width="100%" height="auto" src="/assets/images/ueber-uns/hof/8.jpg"/>
+  <div class="slide-content fade">
+    <img loading="lazy" width="762" height="auto" src="/assets/images/ueber-uns/hof/8.jpg"/>
   </div>
   <!-- Next and previous buttons -->
   <a class="prev">&#10094;</a>

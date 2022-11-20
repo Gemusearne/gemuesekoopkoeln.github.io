@@ -36,7 +36,7 @@ gestaltet, soziales Miteinander, Naturschutz und (Arten-)Vielfalt
 ermöglicht und so eine zukunftsfähige Landwirtschaft stattfinden kann.
 
 <div class="center-figure">
-  <img alt="Solawi Prinzip" loading="lazy" width="80%"
+  <img alt="Solawi Prinzip" loading="lazy" width="610px" height="488px"
    src="/assets/images/konzept_solawi/solawi_prinzip.jpg" />
 </div>
 
@@ -131,7 +131,7 @@ Wie soll unsere Praxis aussehen, wenn wir mit der produktiven Landwirtschaft beg
 Hier eine Übersicht, wie unsere Orga-Struktur aufgebaut ist:
 
 <div class="center-figure">
-  <img alt="Koop Organigram" loading="lazy" width="95%"
+  <img alt="Koop Organigram" loading="lazy" width="600px" height="418px"
    src="/assets/images/konzept_solawi/Struktur-der-Koop.png" />
 </div>
 
