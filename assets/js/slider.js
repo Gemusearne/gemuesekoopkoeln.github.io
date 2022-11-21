@@ -16,6 +16,10 @@
       showSlides(slideIndex = n);
     }
   
+    /**
+     * Add buttons and define their functionality
+     * Called once at the start. Never call it again.
+     */
     function setButtons(container){
       let prevButton = container.querySelector(".prev")
       prevButton.onclick = () => plusSlides(-1);
@@ -28,7 +32,7 @@
         let dotSpan = document.createElement('span');
         if (i==1){
           dotSpan.className = "dot active";
-        }else{
+        } else {
           dotSpan.className = "dot";
         }
         dotSpan.onclick = () => currentSlide(i);
