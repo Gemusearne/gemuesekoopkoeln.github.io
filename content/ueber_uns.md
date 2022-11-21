@@ -87,28 +87,28 @@ Widdersdorfer Landstr. 103
 Hier seht ihr einige Bilder vom Acker und aus der Koop:
 <div id="acker" class="slideshow-container">
   <div class="slide-content fade">
-    <img loading="lazy" width="762" height="auto" src="/assets/images/ueber-uns/hof/1.jpg"/>
+    <img loading="lazy" width="762" height="540" src="/assets/images/ueber-uns/hof/1.jpg"/>
   </div>
   <div class="slide-content fade">
-    <img loading="lazy" width="762" height="auto" src="/assets/images/ueber-uns/hof/2.jpg"/>
+    <img loading="lazy" width="762" height="540" src="/assets/images/ueber-uns/hof/2.jpg"/>
   </div>
   <div class="slide-content fade">
-    <img loading="lazy" width="762" height="auto" src="/assets/images/ueber-uns/hof/3.jpg"/>
+    <img loading="lazy" width="762" height="540" src="/assets/images/ueber-uns/hof/3.jpg"/>
   </div>
   <div class="slide-content fade">
-    <img loading="lazy" width="762" height="auto" src="/assets/images/ueber-uns/hof/4.jpg"/>
+    <img loading="lazy" width="762" height="540" src="/assets/images/ueber-uns/hof/4.jpg"/>
   </div>
   <div class="slide-content fade">
-    <img loading="lazy" width="762" height="auto" src="/assets/images/ueber-uns/hof/5.jpg"/>
+    <img loading="lazy" width="762" height="540" src="/assets/images/ueber-uns/hof/5.jpg"/>
   </div>
   <div class="slide-content fade">
-    <img loading="lazy" width="762" height="auto" src="/assets/images/ueber-uns/hof/6.jpg"/>
+    <img loading="lazy" width="762" height="540" src="/assets/images/ueber-uns/hof/6.jpg"/>
   </div>
   <div class="slide-content fade">
-    <img loading="lazy" width="762" height="auto" src="/assets/images/ueber-uns/hof/7.jpg"/>
+    <img loading="lazy" width="762" height="540" src="/assets/images/ueber-uns/hof/7.jpg"/>
   </div>
   <div class="slide-content fade">
-    <img loading="lazy" width="762" height="auto" src="/assets/images/ueber-uns/hof/8.jpg"/>
+    <img loading="lazy" width="762" height="540" src="/assets/images/ueber-uns/hof/8.jpg"/>
   </div>
   <!-- Next and previous buttons -->
   <a class="prev">&#10094;</a>

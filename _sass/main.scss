@@ -157,6 +157,9 @@ body hr {
 
 img {
   padding: 1em 0em 1em 0em;
+  width: 100%;
+  height: auto;
+  aspect-ratio: attr(width) / attr(height);
 }
 
 div.center-figure {

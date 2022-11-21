@@ -7,8 +7,8 @@ permalink: /fuehrungen
 # Führungen
 
 <div class="grid" markdown="1">
-<img loading="lazy" alt="Foto Jonathan und Raphael" src="/assets/images/fuehrungen/hoffuehrung1.jpg"/>
-<img loading="lazy" alt="Gruppenfoto von einer Führung" src="/assets/images/fuehrungen/hoffuehrung2.jpg">
+<img loading="lazy" width="365px" height="274px" alt="Foto Jonathan und Raphael" src="/assets/images/fuehrungen/hoffuehrung1.jpg"/>
+<img loading="lazy" width="365px" height="274px" alt="Gruppenfoto von einer Führung" src="/assets/images/fuehrungen/hoffuehrung2.jpg">
 </div>
 Es gibt die Möglichkeit bei uns Führungen zu buchen. Eine Führung dauert 2-3 Stunden und es gibt immer eine kleine Verkostung von unserem Gemüse. Wir bieten Führungen mit verschiedenen Schwerpunkten an. Bei eigenen Themenwünschen, sprecht uns gerne an.
 
