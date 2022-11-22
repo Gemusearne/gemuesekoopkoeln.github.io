@@ -47,8 +47,8 @@ E-Mail Adresse: *Mailchimp*
   {% include testimonial.html image="maren-200x200.jpg" text="Die Gemüsekoop ist für mich viel mehr als Gemüse. Wir sind eine Gemeinschaft geworden und schaffen einen Raum, in dem Wertschätzung, Solidarität und Gestaltung erlebt und gelebt werden können." name="Maren" position="Orga-Team" %}
 
   <!-- Next and previous buttons -->
-  <a class="prev">&#10094;</a>
-  <a class="next">&#10095;</a>
+  <button class="prev">&#10094;</button>
+  <button class="next">&#10095;</button>
   <!-- The dots/circles -->
   <div class="dots" style="text-align:center">
   </div>
