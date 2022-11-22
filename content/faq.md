@@ -114,7 +114,7 @@ permalink: /faq
     </summary>
     <p>
       Wir ernten einmal pro Woche (jeweils Donnerstag) und liefern unser Gemüse dann ins Kölner Stadtgebiet an sog. Stadtteildepots. Dort wiegt ihr eure Gemüseanteile selbst aus den Kisten ab. Dazu liegt eine Liste aus, in der steht, wieviel Gemüse pro Anteil enthalten ist. Unter "Wer wir sind" findet ihr eine Übersicht darüber, <a href="/ueber-uns#depots">in welchen Stadtvierteln wir derzeit Depots beliefern</a>. Ein Route unserer Verteilung an die Depots ist in diesem Bild dargestellt.
-      <img alt="Die Verteilung auf die Depots" loading="lazy" width="100%" src="/assets/images/faq/verteilung-kein-rahmen.png"/>
+      <img alt="Die Verteilung auf die Depots" loading="lazy" width="740px" height="525px" src="/assets/images/faq/verteilung-kein-rahmen.png"/>
       
     </p>
     <p>
