@@ -1,21 +1,25 @@
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
-  position: relative;
+  height: auto;
+  display: grid;
   margin: auto;
-  padding-bottom:30px;
 }
 
 /* Hide the images by default */
 .slide-content {
-  display: none;
+  opacity: 0;
+  grid-column: 1;
+  grid-row: 1;
 }
+
 
 /* Next & previous buttons */
 .prev, .next {
+  grid-row: 2;
   cursor: pointer;
-  position: absolute;
   width: auto;
+  bottom: 2em;
   margin-top: -16px;
   padding: 16px;
   color: white;
@@ -26,17 +30,26 @@
   user-select: none;
   color: #bbb;
   text-decoration:none;
+  
   background-color:transparent;
   -webkit-box-shadow: none;
 	-moz-box-shadow: none;
 	box-shadow: none;
   border:none;
+
+  z-index:0;
+  width:10px;
+
 }
 
 /* Position the "next button" to the right */
 .next {
-  right: 0;
+  margin-left: auto;
   border-radius: 3px 0 0 3px;
+  grid-column: 1;
+}
+.prev {
+  grid-column: 1;
 }
 
 /* On hover, add a black background color with a little bit see-through */
@@ -64,15 +77,18 @@
   top: 0;
 }
 
-/* The dots/bullets/indicators */
 .dots {
-  margin-top: 7px;
+  margin-top:5px;
+  grid-column: 1;
+  grid-row: 2;
 }
+
+/* dots/bullets/indicators */
 .dot {
-  margin-top:4px;
   cursor: pointer;
   height: 15px;
   width: 15px;
+  bottom: 2em;
   margin: 0 2px;
   background-color: #bbb;
   border-radius: 50%;
@@ -85,12 +101,29 @@
 }
 
 /* Fading animation */
-.fade {
-  animation-name: fade;
+
+.slideshow-container li{
+  opacity: 0;
+}
+
+.fade-in {
+  animation-fill-mode: forwards;
+  animation-name: fade-in;
   animation-duration: 1.5s;
 }
 
-@keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
+.fade-out {
+  animation-fill-mode: forwards;
+  animation-name: fade-out;
+  animation-duration: 1.5s;
+}
+
+@keyframes fade-in {
+  0% {opacity: 0.0}
+  100% {opacity: 1.0}
+}
+
+@keyframes fade-out {
+  0% {opacity: 1.0}
+  100% {opacity: 0.0}
 }
