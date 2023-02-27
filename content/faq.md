@@ -197,13 +197,13 @@ permalink: /faq
     Du möchtest das Projekt gerne mitunterstützen, obwohl es für dich gerade (aus welchen Gründen auch immer) nicht passend ist, einen Anteil zu beziehen? Das freut uns sehr! Es gibt mehrere Möglichkeiten, dies zu tun:
     <ul>
       <li>
-        Du kannst Fördermitglied im Verein werden und deinen regelmäßigen <a href="/mitmachen#fördermitgliedschaft">Förderbeitrag</a> selbst festlegen. 
+        Du kannst Mitglied im Verein werden und deinen regelmäßigen <a href="/mitmachen">Förderbeitrag</a> selbst festlegen. 
       </li>
       <li>
         Last but not least kannst du natürlich einfach Geld an den Verein spenden, ohne dieses an Bedingungen zu knüpfen und mit einer Mitgliedschaft zu tun zu haben. Unsere Kontodaten findest du im Impressum.
       </li>
     </ul>
-    Spenden an die Gemüsekoop sind leider nicht steuerlich absetzbar.      
+    Spenden an die Gemüsekoop sind leider nicht steuerlich absetzbar.
   </p>
   </details>
   <details>
