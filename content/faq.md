@@ -191,16 +191,16 @@ permalink: /faq
   </details>
   <details>
     <summary>
-      Kann ich euch finanziell unterstützen, ohne Gemüse zu beziehen?
+      Kann ich euch finanziell unterstützen, ohne Gemüse zu bekommen?
     </summary>
     <p>
-    Du möchtest das Projekt gerne mitunterstützen, obwohl es für dich gerade (aus welchen Gründen auch immer) nicht passend ist, einen Anteil zu beziehen? Das freut uns sehr! Es gibt mehrere Möglichkeiten, dies zu tun:
+    Du möchtest das Projekt gerne unterstützen, obwohl es für dich gerade (aus welchen Gründen auch immer) nicht passend ist, Gemüse zu bekommen? Das freut uns sehr! Es gibt mehrere Möglichkeiten, dies zu tun:
     <ul>
       <li>
-        Du kannst Mitglied im Verein werden und deinen regelmäßigen <a href="/mitmachen">Förderbeitrag</a> selbst festlegen. 
+        Du kannst ganz einfach Mitglied im Verein werden. Selbstverständlich sind alle Mitglieder, ob sie nun Gemüse genießen oder nicht, volle Mitglieder und zum Beispiel stimmberechtigt bei einer Mitgliederversammlung. Deinen <a href="/mitmachen">Mitgliedsbeitrag</a> legst du selber fest.  
       </li>
       <li>
-        Last but not least kannst du natürlich einfach Geld an den Verein spenden, ohne dieses an Bedingungen zu knüpfen und mit einer Mitgliedschaft zu tun zu haben. Unsere Kontodaten findest du im Impressum.
+        Natürlich kannst du jederzeit Geld an den Verein spenden, selbst wenn du kein Mitglied bist. Unsere Kontodaten findest du im Impressum.
       </li>
     </ul>
     Spenden an die Gemüsekoop sind leider nicht steuerlich absetzbar.
