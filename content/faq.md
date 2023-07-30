@@ -123,10 +123,10 @@ permalink: /faq
   </details>
   <details>
     <summary>
-      Was bedeutet “großer” oder “kleiner” Gemüseanteil?
+      Was bedeutet kleiner oder großer Gemüseanteil?
     </summary>
     <p>
-      Du kannst als Mitglied der Kooperative entweder einen großen oder einen kleinen Gemüseanteil bekommen. Der große Anteil versorgt etwa 3-4 und der kleine Anteil 1-2 Köpfe einmal pro Woche mit Gemüse. Ob das Gemüse im ‘kleinen Anteil’ für dich genau ausreicht, ob du davon noch die Hälfte verschenken musst, oder ob du sogar noch weiteres Gemüse zukaufst, hängt dabei natürlich von deinem individuellen Koch- und Essverhalten ab.
+      Du kannst als Mitglied der Kooperative entweder einen kleinen oder einen großen Gemüseanteil bekommen. Der kleine Anteil versorgt etwa 1-2 und der große Anteil 3-4 Köpfe einmal pro Woche mit Gemüse. Ob das Gemüse im kleinen Anteil für dich genau ausreicht, ob du davon noch die Hälfte verschenken musst, oder ob du sogar noch weiteres Gemüse zukaufst, hängt dabei natürlich von deinem individuellen Koch- und Essverhalten ab.
     </p>
   </details>
   <details>
@@ -159,8 +159,8 @@ permalink: /faq
       Ist ein Einstieg auch unterjährig nach der Beitragsrunde möglich?
     </summary>
     <p>
-      Wenn du bei uns mitmachen möchtest, kannst Du Dich jederzeit auf die <a href="/assets/files/Wartelistenantrag2023.pdf">Warteliste</a> setzen lassen. Tritt dann im laufenden Jahr ein bestehendes Mitglied aus, rücken die Interessenten von der Warteliste nach und können auch unterjährig in unsere Kooperative eintreten.
-      Die solidarische Preisgestaltung ist dann jedoch nicht mehr so einfach möglich, da die Finanzierung für das Jahr abgeschlossen ist. Das bedeutet, in dem Fall, dass Du nach der Beitragsrunde Mitglied wirst, bitten wir Dich darum, für die laufende Saison mindestens den Richtwert für Deinen Anteil zu bezahlen, damit wir unseren Budgetplan einhalten können. Sollte Dir dies nicht möglich sein, sprich uns bitte an und/oder maile uns!
+      Wenn du bei uns mitmachen möchtest, kannst du dich jederzeit auf die Warteliste setzen lassen. Details dazu findest du [hier](/mitmachen). Tritt dann im laufenden Jahr ein bestehendes Mitglied aus, rücken die Interessenten von der Warteliste nach und können auch unterjährig in unsere Kooperative eintreten.
+      Die solidarische Preisgestaltung ist dann jedoch nicht mehr so einfach möglich, da die Finanzierung für das Jahr abgeschlossen ist. Das bedeutet, dass wir dich bei unterjährigem Beitrag in der Regel darum bitten für die laufende Saison mindestens den Richtwert zu zahlen, damit wir unseren Budgetplan einhalten können. Sollte dies nicht möglich sein, sprich uns bitte jederzeit darauf an: Per Mail, Telefon oder am Hof direkt!
     </p>
   </details>
   <details>
@@ -259,7 +259,7 @@ permalink: /faq
       Jedes Mitglied erklärt sich bereit, unseren Hof für eine Saison (also für ein Jahr) mit zu finanzieren und dafür einen Teil der Ernte zu erhalten (sog. „Ernteanteil“). Es wird ein Beitrag pro Saison gezahlt, der monatlich oder jährlich im Voraus beglichen werden kann.
     </p>
     <p>
-      Wir arbeiten bei der Solawi nach dem Grundsatz: Wir ernten alles, was man essen kann, auch wenn es nicht die EU-Gemüse-Norm erfüllt. Es gibt also bei den Gemüsesorten teilweise Größenunterschiede der einzelnen Gemüse. Und auch die schrumpeligen und kleinen Kartoffeln gehören mit zum Ernteanteil – manchmal sind diese sogar die leckersten.
+      Wir arbeiten bei der Solawi nach dem Grundsatz: Wir ernten alles, was man essen kann, auch wenn es nicht die EU-Gemüse-Norm erfüllt. Es gibt also bei den Gemüsesorten teilweise Größenunterschiede der einzelnen Gemüse. Und auch die schrumpeligen und kleinen Karotten gehören mit zum Ernteanteil – manchmal sind das sogar die leckersten.
     </p>
     <p>
       Wir möchten auch finanziell weniger gut gestellten Personen den Zugang zu Bio-Lebensmitteln und einer zukunftsweisenden Landwirtschaft ermöglichen! Wir zahlen unseren Gemüsegärtner*innen ein angemessenes Gehalt, welches deutlich über Tariflohn liegt. Damit unterscheiden wir uns (leider!) von weiten Teilen der Erwerbslandwirtschaft.

@@ -14,13 +14,14 @@ Am 20.11.2022 findet unsere große Beitragsrunde statt, in der wir die Gemüsean
 
 Es gibt immer wieder Kennenlern-Termine am Hof, um die Koop kennenzulernen. Hierbei handelt es sich um, Ackertage, Hofführungen oder Info-Veranstaltungen. Sprich uns gerne hierzu an.
 
-Deinen ausgefüllten [Wartelistenantrag](/assets/files/Wartelistenantrag2024.pdf) kannst du als Scan an support@gemuesekoop.de oder per Post an Gemüsekoop Köln e.V.- Support, Widdersdorfer Landstr. 103, 50859 Köln schicken.
+Um Dich auf der Warteliste eintragen zu lassen, melde dich gerne per Mail bei support@gemuesekoop.de. Am besten ist es, du schickst uns gleich folgende Informationen mit:
+- wie wir dich erreichen können, sobald es soweit ist: Handy Nr. und/oder Mail-Adresse
+- falls nicht am liebsten bereits gestern: Dein gewünschtes Beitrittsdatum
+- möchtest du unser Gemüse genießen? Wie viel denn? Details erfährst du in unseren [FAQ](/faq).
 
 Unsere Vereinssatzung gibt es [hier](/assets/files/satzung.pdf).
 
 ## Und wenn ich kein Gemüse beziehen möchte?
-Du kannst Du den Aufbau der Gemüsekoop auch finanziell und ehrenamtlich unterstützen, ohne einen Gemüseanteil zu beziehen. Du bekommt unsere regelmäßigen Mitgliederbriefe, kannst dich natürlich in den AGs und auf dem Hof einbringen und die Kooperative mitgestalten! Du hast auch ein Stimmrecht in der Mitgliederversammlung.
+Du kannst Du den Aufbau der Gemüsekoop auch finanziell und ehrenamtlich unterstützen, ohne einen Gemüse zu bekommen. Du bekommt unsere regelmäßigen Mitgliederbriefe, kannst dich natürlich in den AGs und auf dem Hof einbringen und die Kooperative mitgestalten! Du bist genau so ein Mitglied und hast zum Beispiel auch ein Stimmrecht in der Mitgliederversammlung.
 
-Um Mitglied zu werden, fülle einfach den folgenden Antrag aus und schicke ihn uns per Mail oder per Post zu (Gemüsekoop e.V., Widdersdorfer Landstr. 103, 50859 Köln). Die Beitragshöhe kannst Du frei wählen. Wir freuen uns sehr über Dein Interesse und Deine Unterstützung!
-
-[Zum Antrag](/assets/files/AntragMitgliedschaftGemuesekoop.pdf).
+Um Mitglied zu werden, fülle einfach [diesen Antrags](/assets/files/AntragMitgliedschaftGemuesekoop.pdf) aus und schicke ihn uns per Mail oder per Post zu (Gemüsekoop e.V., Widdersdorfer Landstr. 103, 50859 Köln). Die Beitragshöhe kannst Du frei wählen. Wir freuen uns sehr über Dein Interesse und Deine Unterstützung!
