@@ -9,7 +9,7 @@ permalink: /impressum
 ### Angaben gemäß § 5 TMG:
 
 Gemüsekoop Köln e.V.  
-Vorstand: Leon Sikora, Axel Heidecke
+Vorstand: Arne Rötting, Lotta Drummen, Raphael Lion
 
 Widdersdorfer Landstr. 103  
 50859 Köln-Lövenich
