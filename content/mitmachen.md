@@ -10,7 +10,7 @@ Du hast Interesse daran, Teil der Gemüsekoop zu werden? Wir freuen uns darüber
 
 Unser Gartenjahr beginnt jeweils zum 1. März eines Jahres. Die solidarische Preisgestaltung ist ein Eckpfeiler unseres Konzepts, deshalb treffen wir uns einmal im Jahr mit allen Mitgliedern zur Beitragsrunde. Bei dieser Gelegenheit empfangen wir auch neue Mitglieder in der Koop.
 
-Am 20.11.2022 findet unsere große Beitragsrunde statt, in der wir die Gemüseanteile für die Saison 2023/24 vergeben. Wenn du ab März 2023 unser Gemüse beziehen möchtest, lass dich auf die Warteliste eintragen, um dir einen freien Anteil zu sichern. 
+Am 14.01.2024 findet unsere große Beitragsrunde statt, in der wir die Gemüseanteile für die Saison 2024/25 vergeben. Wenn du ab März 2024 unser Gemüse beziehen möchtest, lass dich auf die Warteliste eintragen, um dir einen freien Anteil zu sichern. 
 
 Es gibt immer wieder Kennenlern-Termine am Hof, um die Koop kennenzulernen. Hierbei handelt es sich um, Ackertage, Hofführungen oder Info-Veranstaltungen. Sprich uns gerne hierzu an.
 
