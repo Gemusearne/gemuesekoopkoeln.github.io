@@ -45,6 +45,8 @@ jobs:
         run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
+      - name: Pack all output
+        run: zip -r "koopwebsite-$(date +"%Y-%m-%d_%H-%M").zip" _site/*
       # Ignore upload, but we need a different way to distribute it to the bosskoop server
       # - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
