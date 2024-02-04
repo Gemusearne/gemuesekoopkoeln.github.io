@@ -12,3 +12,5 @@ exclude:
   - doc
   - README.md
   - vendor
+
+repository: GemuesekoopKoeln/gemuesekoopkoeln.github.io
