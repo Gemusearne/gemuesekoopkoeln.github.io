@@ -39,9 +39,12 @@ jobs:
       #- name: Setup Pages
       #  id: pages
       #  uses: actions/configure-pages@v4
+      - name: Explore environment
+        run: pwd
+        run: ls -la
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
       # Ignore upload, but we need a different way to distribute it to the bosskoop server
