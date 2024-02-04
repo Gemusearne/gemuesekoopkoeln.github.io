@@ -39,8 +39,9 @@ jobs:
       #- name: Setup Pages
       #  id: pages
       #  uses: actions/configure-pages@v4
-      - name: Explore environment
+      - name: Explore path
         run: pwd
+      -name: Explore files
         run: ls -la
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
