@@ -8,19 +8,20 @@ permalink: /mitmachen
 ## Mitmachen
 Du hast Interesse daran, Teil der Gemüsekoop zu werden? Wir freuen uns darüber!
 
-Unser Gartenjahr beginnt jeweils zum 1. März eines Jahres. Die solidarische Preisgestaltung ist ein Eckpfeiler unseres Konzepts, deshalb treffen wir uns einmal im Jahr mit allen Mitgliedern zur Beitragsrunde. Bei dieser Gelegenheit empfangen wir auch neue Mitglieder in der Koop.
+Unser Gartenjahr beginnt jeweils zum 1. März eines Jahres. Die solidarische Preisgestaltung ist ein Eckpfeiler unseres Konzepts, dafür treffen wir uns am Anfang des Jahres mit allen Mitgliedern zur Beitragsrunde, bei der die Gemüse- und Obstanteile vergeben und die Finanzierung der kommenden Saison gesichert werden. Bei dieser Gelegenheit empfangen wir auch neue Mitglieder in der Koop.
 
-Am 14.01.2024 findet unsere große Beitragsrunde statt, in der wir die Gemüseanteile für die Saison 2024/25 vergeben. Wenn du ab März 2024 unser Gemüse beziehen möchtest, lass dich auf die Warteliste eintragen, um dir einen freien Anteil zu sichern. 
+Wenn du ab März unser Gemüse und Obst beziehen möchtest, schreibe eine E-Mail an [support@gemuesekoop.de], um dir einen freien Anteil zu sichern.
+Du kannst uns auch während der laufenden Saison schreiben. Es sind ggf. noch Anteile frei oder wir setzen dich auf die Warteliste. 
 
-Es gibt immer wieder Kennenlern-Termine am Hof, um die Koop kennenzulernen. Hierbei handelt es sich um, Ackertage, Hofführungen oder Info-Veranstaltungen. Sprich uns gerne hierzu an.
+Falls du noch Fragen zu unserer Finanzierung und den monatlichen Beiträgen hast, schau nochmal unter „Konzept“ oder in die FAQs nach.
 
-Deinen ausgefüllten [Wartelistenantrag](/assets/files/Wartelistenantrag2024.pdf) kannst du als Scan an support@gemuesekoop.de oder per Post an Gemüsekoop Köln e.V.- Support, Widdersdorfer Landstr. 103, 50859 Köln schicken.
+Ansonsten gibt es verschiedene Möglichkeiten, um die Koop kennenzulernen. Hierbei handelt es sich um Ackertage, Hofführungen, Info-Veranstaltungen oder du schaust einfach mal so am Hof vorbei. Sprich uns gerne hierzu an.
 
 Unsere Vereinssatzung gibt es [hier](/assets/files/satzung.pdf).
 
-## Und wenn ich kein Gemüse beziehen möchte?
-Du kannst Du den Aufbau der Gemüsekoop auch finanziell und ehrenamtlich unterstützen, ohne einen Gemüseanteil zu beziehen. Du bekommt unsere regelmäßigen Mitgliederbriefe, kannst dich natürlich in den AGs und auf dem Hof einbringen und die Kooperative mitgestalten! Du hast auch ein Stimmrecht in der Mitgliederversammlung.
+## Und wenn ich kein Gemüse/Obst beziehen und trotzdem Teil der Gemüsekoop sein möchte?
+Du kannst die Gemüsekoop auch finanziell und/oder ehrenamtlich unterstützen, ohne einen Gemüse- und Obstanteil zu beziehen. In diesem Fall würdest du unsere regelmäßigen Erntemails mit aktuellen Informationen zum Hof bekommen und frei entscheiden, ob und wie du dich am Hof einbringen magst. Es steht dir offen an Erntetagen vorbeizuschauen oder dich in AGs zu engagieren. Um die Kooperative mitzugestalten, hättest du auf Mitgliederversammlungen auch ein Stimmrecht.
 
-Um Mitglied zu werden, fülle einfach den folgenden Antrag aus und schicke ihn uns per Mail oder per Post zu (Gemüsekoop e.V., Widdersdorfer Landstr. 103, 50859 Köln). Die Beitragshöhe kannst Du frei wählen. Wir freuen uns sehr über Dein Interesse und Deine Unterstützung!
+Um Mitglied zu werden, fülle einfach den folgenden Antrag aus und schicke ihn uns per Mail (support@gemuesekoop.de) oder per Post zu (Gemüsekoop e.V., Widdersdorfer Landstr. 103, 50859 Köln). Die Beitragshöhe kannst Du frei wählen. Wir freuen uns sehr über Dein Interesse und Deine Unterstützung!
 
 [Zum Antrag](/assets/files/AntragMitgliedschaftGemuesekoop.pdf).
