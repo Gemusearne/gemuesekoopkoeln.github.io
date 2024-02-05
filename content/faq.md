@@ -13,7 +13,7 @@ permalink: /faq
     <p>      
       Das Gartenjahr der Gemüsekoop läuft jeweils von Anfang März bis Ende Februar des Folgejahres. Unsere neue Saison beginnt wieder zum 1. März.<br />
       Wenn Du jetzt schon weißt, dass du dabei sein möchtest, trage dich auf unsere <a href="/mitmachen">Warteliste</a> ein.
-      Kennenlern-Termine können derzeit nur bedingt stattfinden. Wir versuchen aber dennoch, Ackertage, eine Hofführung oder Info-Veranstaltungen anzubieten! Sprich uns gerne an oder schau in den Kalender auf der Startseite!
+      Wir machen ein paar mal im Jahr Ackertage, eine und Hofführung zum Saisonstart! Sprich uns gerne an oder schau in den Kalender auf der Startseite!
     </p>
   </details>
   <details>
@@ -21,90 +21,60 @@ permalink: /faq
       Wie könnte ein Anteil aussehen? Welches Gemüse werdet ihr anbauen?
     </summary>
     <p>
-      In dieser Tabelle haben wir euch beispielhaft aufgeführt, welche Kulturen und -Mengen ein großer wöchentlicher Gemüseanteil zu verschiedenen Zeiten des Jahres beinhalten kann.
+      In dieser Tabelle haben wir euch beispielhaft aufgeführt, welche Kulturen und -Mengen ein kleiner wöchentlicher Gemüseanteil zu verschiedenen Zeiten des Jahres beinhalten kann.
     <table>
         <tr>
             <td><b>April</b></td>
-            <td><b>Juli</b></td>
-            <td><b>Oktober</b></td>
-            <td><b>Januar</b></td>
+            <td><b>Ende Juni</b></td>
+            <td><b>September</b></td>
+            <td><b>Dezember</b></td>
         </tr>
         <tr>
-            <td>Möhren 8 kg</td>
-            <td>Tomaten 1,5 kg</td>
-            <td>Tomaten 1,5 kg</td>
-            <td>Kartoffeln 1,5 kg</td>
+            <td>Möhre/Rote Bete oder Sellerie ca. 1 kg</td>
+            <td>Gurke 1-2 stk.</td>
+            <td>Gurke 1-2 kg</td>
+            <td>Rot- oder Weißkohl 1 stk.</td>
         </tr>
         <tr>
-            <td>Rote Beete 2 Bund</td>
-            <td>Möhren 1,2 kg</td>
-            <td>Möhren 1,2 kg</td>
-            <td>Endiviensalat 1 Stk.</td>
+            <td>Zwiebeln oder Porree ca. 1 kg</td>
+            <td>Zucchini 1-2 stk.</td>
+            <td>Zucchini 1-2 stk.</td>
+            <td>Endiviensalat o. Raddicchio 1 Stk.</td>
         </tr>
         <tr>
-            <td>Radieschen 1 Stk.</td>
-            <td>Auberginen 0,9 kg</td>
-            <td>Auberginen 0,9 kg</td>
-            <td>Sellerie 1 Stk.</td>
+            <td>Mangold 500g</td>
+            <td>Große Gemüsezwiebel 1-2 stk.</td>
+            <td>Tomate 1- 1,5 kg </td>
+            <td>Möhre/Rote Bete oder Sellerie ca. 1 kg</td>
         </tr>
         <tr>
-            <td>Salat 1 Stk.</td>
-            <td>Mangold 0,6 kg</td>
-            <td>Mangold 0,6 kg</td>
-            <td>Fenchel 1 Stk.</td>
+            <td>2 verschiedene Schnittsalate 150-200 gr</td>
+            <td>Knoblauchknollen 1-2 stk.</td>
+            <td>Mangold 600g</td>
+            <td>Zwiebeln oder Porree ca. 1 kg</td>
         </tr>
         <tr>
-            <td>Knoblauch 0,1 kg</td>
-            <td>Zuchini 0,5 kg</td>
-            <td>Zuchini 0,5 kg</td>
-            <td>Lauch 1 Stk.</td>
-        </tr>
-        <tr>
-            <td>Petersilie 0,03 kg</td>
-            <td>Gurken 0,4 kg</td>
-            <td>Gurken 0,4 kg</td>
-            <td>Chinakohl 1 Stk.</td>
-        </tr>
-        <tr>
-            <td>Asiasalate 0.2 kg</td>
-            <td>Paprika 0,2 kg</td>
-            <td>Paprika 0,2 kg</td>
-            <td>Kürbis 1 Stk.</td>
-        </tr>
-        <tr>
-            <td>Löwenzahn 0,1 kg</td>
-            <td>Bohnen 0,2 kg</td>
-            <td>Bohnen 0,2 kg</td>
-            <td>Tomaten 0,3 kg</td>
-        </tr>
-        <tr>
-            <td>Frühlingszwiebeln 0,1 kg</td>
-            <td>Zwiebeln 2 Stk.</td>
-            <td>Zwiebeln 2 Stk.</td>
-            <td>Rote Beete 0,7 kg</td>
-        </tr>
-        <tr>
-            <td> </td>
-            <td>Zuckermais 2 Stk.</td>
-            <td>Zuckermais 2 Stk.</td>
-            <td>Knoblauch 0,1 kg</td>
-        </tr>
-        <tr>
-            <td> </td>
-            <td>Salat 2 Stk.</td>
-            <td>Salat 2 Stk.</td>
-            <td>Petersilie 0,03 kg</td>
+            <td>Grünkohl oder Radischen ca. 300g</td>
+            <td>Spitzkohl 1 stk.</td>
+            <td>Paprika 2-4 stk.</td>
+            <td>Petersilie o. Koriander 1 Bündchen </td>
         </tr>
         <tr>
             <td></td>
-            <td>Minze 0,03 kg</td>
+            <td>Salatkopf 1 stk.</td>
+            <td>Stangensellerie 300g</td>
             <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Bunte Beete o. Möhren 0,5 kg</td>
+            <td>Salatkopf 1 stk.</td>
             <td></td>
         </tr>
     </table>
-      Diese Zahlen stammen aus der Statistik der Freiburger GartenCoop und nicht aus unserem eigenen Anbau! Sie können euch aber eine gute Idee davon geben, was wir eigentlich meinen, wenn wir in Mitteleuropa von “regionalem, saisonalem” Gemüse sprechen! In Kürze wird diese Tabelle durch eine erste Übersicht unserer eigenen Ernten ersetzt.
-      
-      Hier aber schonmal als “Vorgeschmack” ein Foto von einer unserer Lieferungen im Sommer (August 2017).
+
+            
+      Hier aber schonmal als “Vorgeschmack” ein Foto von kleinen Anteil im Mai und September 2020.
       <img alt="Lager" loading="lazy" src="/assets/images/faq/lager.jpg" width="100%">
     </p>
   </details>
@@ -118,7 +88,7 @@ permalink: /faq
       
     </p>
     <p>
-      Eine Erfahrung aus anderen Solawis: Depots funktionieren um so besser, je besser sich die Depotgruppe untereinander kennt. D.h. kleine Depotfeiern abhalten, etwas länger da sein und mit den Anderen klönen, oder sich einfach auch neben der Abholung mal treffen, machen nicht nur Spaß, sondern sorgen auch für einen reibungslosen Ablauf.
+      Depots funktionieren um so besser, je besser sich die Depotgruppe untereinander kennt. D.h. kleine Depotfeiern abhalten, etwas länger da sein und mit den Anderen klönen, oder sich einfach auch neben der Abholung mal treffen, machen nicht nur Spaß, sondern sorgen auch für einen reibungslosen Ablauf.
     </p>
   </details>
   <details>
@@ -126,7 +96,7 @@ permalink: /faq
       Was bedeutet “großer” oder “kleiner” Gemüseanteil?
     </summary>
     <p>
-      Du kannst als Mitglied der Kooperative entweder einen großen oder einen kleinen Gemüseanteil bekommen. Der große Anteil versorgt etwa 3-4 und der kleine Anteil 1-2 Köpfe einmal pro Woche mit Gemüse. Ob das Gemüse im ‘kleinen Anteil’ für dich genau ausreicht, ob du davon noch die Hälfte verschenken musst, oder ob du sogar noch weiteres Gemüse zukaufst, hängt dabei natürlich von deinem individuellen Koch- und Essverhalten ab.
+      Du kannst als Mitglied der Kooperative entweder einen großen oder einen kleinen Gemüseanteil bekommen. Der große Anteil versorgt etwa 3-4 und der kleine Anteil 1-2 Köpfe einmal pro Woche mit Gemüse. In der Regel ist der große Anteil einfach die doppelte Mennge des kleinen. Ob das Gemüse im ‘kleinen Anteil’ für dich genau ausreicht, ob du davon noch die Hälfte verschenken musst, oder ob du sogar noch weiteres Gemüse zukaufst, hängt dabei natürlich von deinem individuellen Koch- und Essverhalten ab.
     </p>
   </details>
   <details>
@@ -134,7 +104,7 @@ permalink: /faq
       Kann ich auch mehrere Gemüseanteile beziehen?
     </summary>
     <p>
-      Ja, das geht! Die <a href="/faq#einlage">Investitionseinlage</a> wird allerdings pro Anteil fällig, d.h. wenn du drei Anteile beziehen möchtest, musst Du auch dreimal die Einlage zahlen. Das geht aber dann natürlich auch in Raten und/oder nach Absprache finden wir eine individuelle Lösung für Dich. Sprich uns einfach an, am besten indem Du eine Mail an <a href="mailto:support(at)gemuesekoop.de">support(at)gemuesekoop.de</a> schreibst. Das Stimmrecht multipliziert sich hingegen nicht – jedes Mitglied hat eine Stimme, unabhängig von der Anzahl der Anteile.
+      Ja, das geht! Sprich uns einfach an, am besten indem Du eine Mail an <a href="mailto:support(at)gemuesekoop.de">support(at)gemuesekoop.de</a> schreibst. 
     </p>
   </details>
   <details>
@@ -145,11 +115,11 @@ permalink: /faq
       Das Prinzip der SoLaWi ist es, dass du nicht für das Gemüse bezahlst, sondern für die Landwirtschaft, also für den Lohn der Angestellten sowie die Geräte und Materialen, die es braucht, um die Fläche zu bewirtschaften und alle Kosten, die in einem laufenden Betrieb sonst noch so anfallen. Zudem wünschen wir uns eine solidarische Preisgestaltung. Das bedeutet: Wir errechnen einen Richtwert, den jedes Mitglied im Schnitt pro Monat zahlen müsste, damit wir die Bewirtschaftung finanziell stemmen können. Wenn Einzelne nun mehr für ihren Anteil zahlen, weil es Ihnen möglich und wichtig genug ist, zeigen sie sich solidarisch mit Anderen, denen es sonst nicht möglich wäre. Diese solidarische Preisgestaltung findet auf der sogenannten Beitragsrunde statt.  
       
       <ul>
-        <li>Richtwert für einen kleinen Anteil (versorgt ein bis zwei Personen) sind aktuell  66 € / Monat.
+        <li>Richtwert für einen kleinen Anteil (versorgt ein bis zwei Personen) sind aktuell  69 € / Monat.
         </li>
-        <li>Für einen großen Anteil (versorgt zwei bis vier Personen) veranschlagen wir aktuell 122 € / Monat.
+        <li>Für einen großen Anteil (versorgt zwei bis vier Personen) veranschlagen wir aktuell 128 € / Monat.
         </li>
-        <li>Zudem rechnen wir mit einer Investitionseinlage pro Anteil – diese Einlage ist für  große und kleine Anteile gleich hoch.
+        <li>Zudem rechnen wir mit einer Investitionseinlage von 200€ pro Anteil – diese Einlage ist für  große und kleine Anteile gleich hoch.
         </li>
       </ul>
     </p>
@@ -168,7 +138,10 @@ permalink: /faq
       Was ist eine Investitionseinlage?
     </summary>
     <p>
-      Eine Investitionseinlage ist ein Beitrag, der von allen Mitgliedern vor Beginn der Gemüselieferung entrichtet wird und der uns den Betriebsaufbau ermöglicht. Durch die Investitionseinlage gehört der Betrieb uns allen zu gleichen Teilen. Falls du das Projekt zum Ende eines Lieferjahres verlassen möchtest, erhältst Du die Einlage zurück, sobald ein neues Mitglied gefunden ist, das für dich eintritt und/oder der Verein liquide genug ist.
+      Eine Investitionseinlage (200€) ist ein Beitrag, der von allen Mitgliedern bei Vereinsbeitritt entrichtet wird und der uns den Betriebsaufbau ermöglicht. Durch die Investitionseinlage gehört der Betrieb uns allen zu gleichen Teilen. Falls du das Projekt zum Ende eines Lieferjahres verlassen möchtest, erhältst Du die Einlage zurück, sobald ein neues Mitglied gefunden ist, das für dich eintritt und/oder der Verein liquide genug ist.
+
+Falls du Schwierigkeiten hast die Investitionseinlage zu zahlen, meld dich einfach beim Support <a href="mailto:support(at)gemuesekoop.de">support(at)gemuesekoop.de</a>
+Wir sind inzwischen weniger als zu Beginn darauf angewiesen, dass alle Mitgleider die Einlage zahlen. 
     </p>
   </details>
   <details>
@@ -176,10 +149,10 @@ permalink: /faq
       Und was ist eine Beitragsrunde?
     </summary>
     <p>
-      Die Beitragsrunde ist das Verfahren, in dem gemeinsam die Finanzierung der kommenden Saison vorgestellt, geplant und beschlossen wird. Sie findet normalerweise jährlich einmal vor dem Beginn der landwirtschaftlichen Saison statt. 
+      Die Beitragsrunde ist das Verfahren, in dem gemeinsam die Finanzierung der kommenden Saison vorgestellt und beschlossen wird. Sie findet normalerweise jährlich einmal vor dem Beginn der landwirtschaftlichen Saison statt. Außerdem ist es der eine Termin im Jahr bei dem die meisten Menschen die sich an der Gemüsekoop beteiligen anwesend sind. Hier feiern wir gemeinsam das letzte Jahr und geben einen Ausblick für die kommende Saison.  
     </p>
     <p>
-      Alle, die im kommenden Jahr einen Ernteanteil an der Gemüsekoop haben möchten, müssen an diesem Abend anwesend sein oder sich per Vollmacht vertreten lassen.
+      Alle, die im kommenden Jahr einen Ernteanteil an der Gemüsekoop haben möchten, müssen an diesem Tag anwesend sein oder sich per Vollmacht vertreten lassen.
     </p>
     <p>
       Wir stellen den Finanzierungsplan für die kommende Saison und die monatlichen Richtwerte vor. Anschließend wird über ein anonymes Formular abgefragt, wer wie viel Geld pro Monat geben kann und möchte. Wir sammeln die Formulare ein und rechnen aus, ob das gebotene Geld ausreicht, um die Betriebsfinanzierung zu stemmen. Wenn das nicht der Fall ist, wird die Bieterrunde wiederholt. Das funktioniert sehr gut und in den meisten Fällen steht die Finanzierung nach 2-3 Runden.
@@ -259,10 +232,10 @@ permalink: /faq
       Jedes Mitglied erklärt sich bereit, unseren Hof für eine Saison (also für ein Jahr) mit zu finanzieren und dafür einen Teil der Ernte zu erhalten (sog. „Ernteanteil“). Es wird ein Beitrag pro Saison gezahlt, der monatlich oder jährlich im Voraus beglichen werden kann.
     </p>
     <p>
-      Wir arbeiten bei der Solawi nach dem Grundsatz: Wir ernten alles, was man essen kann, auch wenn es nicht die EU-Gemüse-Norm erfüllt. Es gibt also bei den Gemüsesorten teilweise Größenunterschiede der einzelnen Gemüse. Und auch die schrumpeligen und kleinen Kartoffeln gehören mit zum Ernteanteil – manchmal sind diese sogar die leckersten.
+      Wir arbeiten bei der Solawi nach dem Grundsatz: Wir ernten alles, was man essen kann, auch wenn es nicht die EU-Gemüse-Norm erfüllt. Es gibt also bei den Gemüsesorten teilweise Größenunterschiede der einzelnen Gemüse. Und auch die schrumpeligen und kleinen Möhren gehören mit zum Ernteanteil – manchmal sind diese sogar die leckersten.
     </p>
     <p>
-      Wir möchten auch finanziell weniger gut gestellten Personen den Zugang zu Bio-Lebensmitteln und einer zukunftsweisenden Landwirtschaft ermöglichen! Wir zahlen unseren Gemüsegärtner*innen ein angemessenes Gehalt, welches deutlich über Tariflohn liegt. Damit unterscheiden wir uns (leider!) von weiten Teilen der Erwerbslandwirtschaft.
+      Wir möchten auch finanziell weniger gut gestellten Personen den Zugang zu Bio-Lebensmitteln und einer zukunftsweisenden Landwirtschaft ermöglichen! Wir zahlen unseren Gemüsegärtner*innen ein angemessenes Gehalt, welches über Tariflohn liegt. Damit unterscheiden wir uns (leider!) von weiten Teilen der Erwerbslandwirtschaft.
     </p>
     <p>
       Uns ist es wichtig, dass wir füreinander und für unsere Wirtschaftsweise Verantwortung übernehmen. Die Bedürfnisse der Mitglieder, der Arbeitnehmer und der Umwelt sollen bei uns Beachtung finden.    
